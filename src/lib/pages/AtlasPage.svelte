@@ -1,0 +1,1 @@
+<div class="chart-wrap"><svg id="sky-wheel" viewBox="0 0 860 860" role="group" aria-label="Thirty-six celestial assignments arranged in three paths and twelve monthly sectors"></svg><div class="loading-message" id="loading">Reading the celestial register…</div><div class="chart-tooltip" id="chart-tooltip" role="tooltip" hidden></div></div>

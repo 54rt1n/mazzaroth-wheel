@@ -1,0 +1,162 @@
+{
+  "retrievedUtc": "2026-10-24T04:00:52.844677+00:00",
+  "gaiaDataRelease": "DR2",
+  "targetCoordinateEpoch": 2000.0,
+  "coordinateFrame": "ICRS (Gaia/Hipparcos); FK5 J2000 for BSC-only resolver entries",
+  "epochNote": "Gaia positions at J2015.5 and Hipparcos positions at J1991.25 have been propagated to J2000 with linear proper motions. Original values and reference epochs are retained. Objects without proper motion retain their native epoch. This is not precession to an ancient epoch; annual parallax and perspective acceleration are not modeled.",
+  "photometryNote": "Background is selected at Gaia G≤6.5, supplemented with unmatched Hipparcos Johnson V≤6.5. G and V are different passbands; marker sizes are illustrative, not calibrated visible-light photometry.",
+  "displayDeduplicationNote": "Gaia display points within 3 arcsec of a bright Hipparcos fallback are suppressed to avoid overlapping markers. This display-only positional coalescence does not assign Gaia IDs to HIP sources or establish new physical crossmatches. All raw Gaia rows and the pair audit are retained.",
+  "qualityNote": "The Gaia subset uses a G-magnitude cut only: no astrometric or photometric quality filter. DR2 is incomplete at the bright end, and individual bright-source magnitudes or solutions can be problematic. Gaia source IDs are retained as strings. The 155 Gaia sources without proper motion retain their native J2015.5 coordinate epoch.",
+  "counts": {
+    "gaiaDr2": 12200,
+    "gaiaDr2Displayed": 9485,
+    "gaiaDr2DisplaySuppressed": 2715,
+    "hipparcosBrightFallback": 3010,
+    "backgroundTotal": 12495,
+    "hipparcosResolver": 117955,
+    "bscResolver": 9096
+  },
+  "queries": {
+    "gaiaADQL": "SELECT g.source_id,g.ra,g.dec,g.ref_epoch,g.pmra,g.pmdec,g.parallax,g.phot_g_mean_mag,g.bp_rp,h.original_ext_source_id AS hip\nFROM gaiadr2.gaia_source AS g\nLEFT OUTER JOIN gaiadr2.hipparcos2_best_neighbour AS h ON g.source_id=h.source_id\nWHERE g.phot_g_mean_mag <= 6.5",
+    "urls": {
+      "gaia_dr2_bright.csv": "https://gea.esac.esa.int/tap-server/tap/sync?REQUEST=doQuery&LANG=ADQL&FORMAT=csv&QUERY=SELECT+g.source_id%2Cg.ra%2Cg.dec%2Cg.ref_epoch%2Cg.pmra%2Cg.pmdec%2Cg.parallax%2Cg.phot_g_mean_mag%2Cg.bp_rp%2Ch.original_ext_source_id+AS+hip%0AFROM+gaiadr2.gaia_source+AS+g%0ALEFT+OUTER+JOIN+gaiadr2.hipparcos2_best_neighbour+AS+h+ON+g.source_id%3Dh.source_id%0AWHERE+g.phot_g_mean_mag+%3C%3D+6.5",
+      "hipparcos_main.tsv": "https://vizier.cds.unistra.fr/viz-bin/asu-tsv?-source=I%2F239%2Fhip_main&-out.max=unlimited&-out=HIP%2CHD%2CVmag%2CRAICRS%2CDEICRS%2CpmRA%2CpmDE%2CPlx%2CB-V",
+      "bsc5_catalog.gz": "https://cdsarc.cds.unistra.fr/ftp/cats/V/50/catalog.gz",
+      "bsc_ReadMe": "https://cdsarc.cds.unistra.fr/ftp/cats/V/50/ReadMe"
+    }
+  },
+  "catalogues": [
+    {
+      "label": "Gaia DR2 (Gaia Collaboration 2018)",
+      "url": "https://www.cosmos.esa.int/web/gaia/dr2"
+    },
+    {
+      "label": "Hipparcos and Tycho Catalogues (ESA 1997), I/239",
+      "url": "https://cdsarc.cds.unistra.fr/viz-bin/cat/I/239"
+    },
+    {
+      "label": "Bright Star Catalogue, 5th Revised Ed. (Hoffleit & Warren), V/50",
+      "url": "https://cdsarc.cds.unistra.fr/viz-bin/cat/V/50"
+    }
+  ],
+  "nameCatalogue": {
+    "name": "IAU/WGSN Catalogue of Star Names",
+    "url": "https://exopla.net/star-names/modern-iau-star-names/",
+    "acceptedNames": 563,
+    "rejectedCoordinateMismatches": [
+      {
+        "name": "Anunitu",
+        "hip": "3031",
+        "separationArcsec": 93727.347
+      },
+      {
+        "name": "Zibbatu",
+        "hip": "9353",
+        "separationArcsec": 376166.206
+      },
+      {
+        "name": "Ebla",
+        "hip": "114322",
+        "separationArcsec": 215814.636
+      },
+      {
+        "name": "Alrakis",
+        "hip": "83608",
+        "separationArcsec": 2604.362
+      },
+      {
+        "name": "Barnard's Star",
+        "hip": "87937",
+        "separationArcsec": 90.63
+      },
+      {
+        "name": "Tegmine",
+        "hip": "40167",
+        "separationArcsec": 9775.303
+      },
+      {
+        "name": "Alrescha",
+        "hip": "9487",
+        "separationArcsec": 99892.796
+      },
+      {
+        "name": "Rasalgethi",
+        "hip": "84345",
+        "separationArcsec": 11917.869
+      }
+    ],
+    "acceptedIdentifierMatchesWithPageCoordinateMismatch": [
+      {
+        "name": "Alsephina",
+        "hip": "42913",
+        "hr": 3485,
+        "pageCoordinateSeparationArcsec": 21674.535,
+        "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+      },
+      {
+        "name": "Nganurganity",
+        "hip": "33856",
+        "hr": 2646,
+        "pageCoordinateSeparationArcsec": 1275.807,
+        "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+      },
+      {
+        "name": "Alkalurops",
+        "hip": "75411",
+        "hr": 5733,
+        "pageCoordinateSeparationArcsec": 16345.168,
+        "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+      },
+      {
+        "name": "Copernicus",
+        "hip": "43587",
+        "hr": 3522,
+        "pageCoordinateSeparationArcsec": 38872.611,
+        "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+      },
+      {
+        "name": "Tonatiuh",
+        "hip": "58952",
+        "hr": 4609,
+        "pageCoordinateSeparationArcsec": 999.458,
+        "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+      },
+      {
+        "name": "Mira",
+        "hip": "10826",
+        "hr": 681,
+        "pageCoordinateSeparationArcsec": 16229.148,
+        "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+      },
+      {
+        "name": "Mizar",
+        "hip": "65378",
+        "hr": 5054,
+        "pageCoordinateSeparationArcsec": 11545.886,
+        "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+      },
+      {
+        "name": "Chalawan",
+        "hip": "53721",
+        "hr": 4277,
+        "pageCoordinateSeparationArcsec": 37983.78,
+        "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+      },
+      {
+        "name": "Errai",
+        "hip": "116727",
+        "hr": 8974,
+        "pageCoordinateSeparationArcsec": 7071.959,
+        "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+      },
+      {
+        "name": "Veritate",
+        "hip": "116076",
+        "hr": 8930,
+        "pageCoordinateSeparationArcsec": 20352.467,
+        "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+      }
+    ],
+    "note": "Labels and identifiers only; public-domain scientific nomenclature. Names require a matching HIP and IAU-listed position within one arcminute, or concordant independent HIP and HR identifiers. All displayed coordinates come from Gaia/Hipparcos/BSC, never the name page."
+  }
+}

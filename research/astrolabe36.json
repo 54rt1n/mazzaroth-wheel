@@ -1,0 +1,708 @@
+[
+  {
+    "id": "ea-01",
+    "month": 1,
+    "monthName": "Nisannu",
+    "path": "Ea",
+    "ancientName": "The Field",
+    "transliteration": "IKU / AŠ.GAN",
+    "modernIdentification": "Great Square of Pegasus",
+    "confidence": "high",
+    "kind": "asterism",
+    "notes": "Astrolabe B, section C, month I. The square includes Alpha Andromedae; modern constellation boundaries do not reproduce ancient ones.",
+    "referenceStars": [
+      "Markab",
+      "Scheat",
+      "Algenib",
+      "Alpheratz"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+    ]
+  },
+  {
+    "id": "anu-01",
+    "month": 1,
+    "monthName": "Nisannu",
+    "path": "Anu",
+    "ancientName": "Dilbat",
+    "transliteration": "Dilbat / DIL.BAT",
+    "modernIdentification": "Unresolved in Astrolabe B; later associated with Venus",
+    "confidence": "disputed",
+    "kind": "unidentified",
+    "notes": "The early referent is disputed. Reiner–Pingree (1981, p. 2, section 2.1.1) hypothesize that older names denoted fixed stars; their p. 4 table supplies the conventional Venus association but no fixed-star position. Applying a later planetary name equation to this early calendar is not a secure identification. No replacement star is asserted.",
+    "referenceStars": [],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://cdli.earth/articles/cdlj/2023-1",
+      "https://cdli.earth/artifacts/281769"
+    ],
+    "laterAssociation": "Venus"
+  },
+  {
+    "id": "enlil-01",
+    "month": 1,
+    "monthName": "Nisannu",
+    "path": "Enlil",
+    "ancientName": "The Plough",
+    "transliteration": "APIN; Akkadian epinnu",
+    "modernIdentification": "Triangulum and Gamma Andromedae (conventional identification)",
+    "confidence": "medium",
+    "kind": "constellation",
+    "notes": "The conventional later identification conflicts with Astrolabe B's description of the Plough as present all year. Do not treat this as a secure reconstruction of its Bronze Age outline or an actual circumpolar triangle.",
+    "referenceStars": [
+      "Mothallah",
+      "Almach"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/Epinnu",
+      "https://dokumen.pub/mesopotamian-cosmic-geography-0931464994-9780931464997.html"
+    ]
+  },
+  {
+    "id": "ea-02",
+    "month": 2,
+    "monthName": "Ayyaru",
+    "path": "Ea",
+    "ancientName": "The Stars / Pleiades",
+    "transliteration": "MUL.MUL; Akkadian zappu",
+    "modernIdentification": "Pleiades star cluster",
+    "confidence": "high",
+    "kind": "cluster",
+    "notes": "The Ea path is the tablet's calendar assignment. It must not be replaced with the different path assignment in MUL.APIN.",
+    "referenceStars": [
+      "Alcyone",
+      "Atlas",
+      "Electra",
+      "Maia",
+      "Merope",
+      "Taygeta",
+      "Pleione",
+      "Celaeno",
+      "Asterope"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://iris.uniroma1.it/retrieve/e3835315-f519-15e8-e053-a505fe0a3de9/Verderame_Pleiades_2016.pdf"
+    ]
+  },
+  {
+    "id": "anu-02",
+    "month": 2,
+    "monthName": "Ayyaru",
+    "path": "Anu",
+    "ancientName": "The Old Man",
+    "transliteration": "ŠU.GI",
+    "modernIdentification": "Perseus",
+    "confidence": "high",
+    "kind": "constellation",
+    "notes": "Conventional regional identification, not an exact modern outline.",
+    "referenceStars": [
+      "Mirfak",
+      "Algol"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+    ]
+  },
+  {
+    "id": "enlil-02",
+    "month": 2,
+    "monthName": "Ayyaru",
+    "path": "Enlil",
+    "ancientName": "Anunitum",
+    "transliteration": "Anunītu / Anunītum",
+    "modernIdentification": "Eastern fish of Pisces",
+    "confidence": "medium",
+    "kind": "constellation",
+    "notes": "The constellation bears a goddess's name; its regional identification is conventional. Boundaries and selected stars are not directly supplied by this tablet.",
+    "referenceStars": [
+      "Eta Piscium"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+    ]
+  },
+  {
+    "id": "ea-03",
+    "month": 3,
+    "monthName": "Simanu",
+    "path": "Ea",
+    "ancientName": "The True Shepherd of Anu",
+    "transliteration": "SIPA.ZI.AN.NA; šitaddalu / šitaddaru",
+    "modernIdentification": "Orion",
+    "confidence": "high",
+    "kind": "constellation",
+    "notes": "Named with the divine attendant Ninshubur/Papsukkal in related lists. Akkadian spellings vary; the Greek hunter story is not supplied by the Mesopotamian name.",
+    "referenceStars": [
+      "Betelgeuse",
+      "Bellatrix",
+      "Alnitak",
+      "Alnilam",
+      "Mintaka",
+      "Rigel",
+      "Saiph"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/SIPA.ZI.AN.NA"
+    ]
+  },
+  {
+    "id": "anu-03",
+    "month": 3,
+    "monthName": "Simanu",
+    "path": "Anu",
+    "ancientName": "The Lion",
+    "transliteration": "UR.GU.LA",
+    "modernIdentification": "Leo",
+    "confidence": "high",
+    "kind": "constellation",
+    "notes": "This is the Lion constellation. The separate King/Regulus slot occurs in month VIII.",
+    "referenceStars": [
+      "Regulus",
+      "Denebola",
+      "Algieba",
+      "Zosma"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/UR.GU.LA"
+    ]
+  },
+  {
+    "id": "enlil-03",
+    "month": 3,
+    "monthName": "Simanu",
+    "path": "Enlil",
+    "ancientName": "The Snake",
+    "transliteration": "MUŠ",
+    "modernIdentification": "Hydra",
+    "confidence": "high",
+    "kind": "constellation",
+    "notes": "Hydra is the conventional Mesopotamian identification; this entry is not evidence that Job's fleeing serpent must be Hydra. Astrolabe B assigns it to Enlil in this calendar.",
+    "referenceStars": [
+      "Alphard"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/SIPA.ZI.AN.NA"
+    ]
+  },
+  {
+    "id": "ea-04",
+    "month": 4,
+    "monthName": "Du'uzu",
+    "path": "Ea",
+    "ancientName": "The Arrow",
+    "transliteration": "KAK.SI.SÁ; Akkadian šukūdu",
+    "modernIdentification": "Sirius",
+    "confidence": "high",
+    "kind": "star",
+    "notes": "The Arrow is associated with Ninurta. It is distinct from the Bow in month V.",
+    "referenceStars": [
+      "Sirius"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/KAK.SI.SA2"
+    ]
+  },
+  {
+    "id": "anu-04",
+    "month": 4,
+    "monthName": "Du'uzu",
+    "path": "Anu",
+    "ancientName": "The Twins",
+    "transliteration": "MAŠ.TAB.BA",
+    "modernIdentification": "A pair in Gemini; precise identification uncertain",
+    "confidence": "low",
+    "kind": "asterism",
+    "notes": "The monthly text gives unqualified Twins, distinct from its Great Twins entry in month V. Reiner–Pingree give Gamma and Xi Geminorum with a question mark; do not silently substitute Castor and Pollux.",
+    "referenceStars": [],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/KAK.SI.SA2"
+    ]
+  },
+  {
+    "id": "enlil-04",
+    "month": 4,
+    "monthName": "Du'uzu",
+    "path": "Enlil",
+    "ancientName": "Šulpae",
+    "transliteration": "ŠUL.PA.È",
+    "modernIdentification": "Unresolved in Astrolabe B; later associated with Jupiter",
+    "confidence": "disputed",
+    "kind": "unidentified",
+    "notes": "The early referent is disputed. Reiner–Pingree hypothesize fixed-star referents in the older tradition, while their Table II gives the conventional Jupiter association without a stellar coordinate. Astrolabe B writes Šulpae; the Pinches version has AL.TAR. Neither equation identifies a secure original fixed star.",
+    "referenceStars": [],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://cdli.earth/articles/cdlj/2023-1",
+      "https://cdli.earth/artifacts/281769"
+    ],
+    "laterAssociation": "Jupiter"
+  },
+  {
+    "id": "ea-05",
+    "month": 5,
+    "monthName": "Abu",
+    "path": "Ea",
+    "ancientName": "The Bow",
+    "transliteration": "BAN / GIŠ.BAN; Akkadian qaštu",
+    "modernIdentification": "Asterism in southern Canis Major",
+    "confidence": "medium",
+    "kind": "asterism",
+    "notes": "Conventional identification includes stars near Delta and Epsilon Canis Majoris. Modern reference stars locate the region without claiming a recovered outline.",
+    "referenceStars": [
+      "Wezen",
+      "Adhara"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+    ]
+  },
+  {
+    "id": "anu-05",
+    "month": 5,
+    "monthName": "Abu",
+    "path": "Anu",
+    "ancientName": "The Great Twins",
+    "transliteration": "MAŠ.TAB.BA.GAL.GAL",
+    "modernIdentification": "Castor and Pollux / Gemini",
+    "confidence": "high",
+    "kind": "asterism",
+    "notes": "Distinguished in the tablet from month IV's unqualified Twins.",
+    "referenceStars": [
+      "Castor",
+      "Pollux"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+    ]
+  },
+  {
+    "id": "enlil-05",
+    "month": 5,
+    "monthName": "Abu",
+    "path": "Enlil",
+    "ancientName": "The Wagon",
+    "transliteration": "MAR.GÍD.DA; Akkadian eriqqu / ereqqu",
+    "modernIdentification": "Big Dipper in Ursa Major",
+    "confidence": "high",
+    "kind": "asterism",
+    "notes": "A wagon rather than a bear in this tradition. The separate Fox lies near its pole. Modern Dipper stars provide an approximate locator.",
+    "referenceStars": [
+      "Dubhe",
+      "Merak",
+      "Phecda",
+      "Megrez",
+      "Alioth",
+      "Mizar",
+      "Alkaid"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/MAR.GID2.DA"
+    ]
+  },
+  {
+    "id": "ea-06",
+    "month": 6,
+    "monthName": "Ululu",
+    "path": "Ea",
+    "ancientName": "The Kidney",
+    "transliteration": "Kalītu / Kalītum; BIR",
+    "modernIdentification": "Puppis region; exact stars uncertain",
+    "confidence": "medium",
+    "kind": "asterism",
+    "notes": "This is the southern Kidney, not the similarly named feature in the Stag around Andromeda/Cassiopeia. Exact stars are left unmapped.",
+    "referenceStars": [],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/BIR",
+      "https://cdli.earth/articles/cdlj/2023-1"
+    ]
+  },
+  {
+    "id": "anu-06",
+    "month": 6,
+    "monthName": "Ululu",
+    "path": "Anu",
+    "ancientName": "The Raven",
+    "transliteration": "UGA; Akkadian āribu",
+    "modernIdentification": "Corvus",
+    "confidence": "high",
+    "kind": "constellation",
+    "notes": "The same month VI triad is independently discussed in Cifola and Hughey's study of Astrolabe B.",
+    "referenceStars": [
+      "Gamma Corvi",
+      "Beta Corvi",
+      "Delta Corvi",
+      "Epsilon Corvi"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://cdli.earth/articles/cdlj/2023-1"
+    ]
+  },
+  {
+    "id": "enlil-06",
+    "month": 6,
+    "monthName": "Ululu",
+    "path": "Enlil",
+    "ancientName": "Šupa",
+    "transliteration": "ŠU.PA",
+    "modernIdentification": "Boötes, including Arcturus",
+    "confidence": "high",
+    "kind": "constellation",
+    "notes": "The conventional regional match is strong; the literal interpretation of the written name is less secure than the sky identification.",
+    "referenceStars": [
+      "Arcturus",
+      "Izar"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://cdli.earth/articles/cdlj/2023-1"
+    ]
+  },
+  {
+    "id": "ea-07",
+    "month": 7,
+    "monthName": "Tashritu",
+    "path": "Ea",
+    "ancientName": "The Great Lady",
+    "transliteration": "NIN.MAḪ / Ninmah",
+    "modernIdentification": "Vela (traditional identification; disputed)",
+    "confidence": "low",
+    "kind": "constellation",
+    "notes": "Ninmah is a mother goddess. Reiner–Pingree locate the asterism around Gamma Velorum; newer reconstructions disagree. No exact stellar outline is claimed.",
+    "referenceStars": [],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/NIN.MA%E1%B8%AA"
+    ]
+  },
+  {
+    "id": "anu-07",
+    "month": 7,
+    "monthName": "Tashritu",
+    "path": "Anu",
+    "ancientName": "The Scales",
+    "transliteration": "Zibanītu / Zibānītum; ZI.BA.AN.NA",
+    "modernIdentification": "Libra",
+    "confidence": "high",
+    "kind": "constellation",
+    "notes": "Conventional identification with the Scales. Some astronomical texts also apply stellar names to planets, so identities are always context-dependent.",
+    "referenceStars": [
+      "Zubenelgenubi",
+      "Zubeneschamali"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/ZI.BA.AN.NA"
+    ]
+  },
+  {
+    "id": "enlil-07",
+    "month": 7,
+    "monthName": "Tashritu",
+    "path": "Enlil",
+    "ancientName": "Entenabarhum",
+    "transliteration": "EN.TE.NA.BAR.ḪUM",
+    "modernIdentification": "Centaurus",
+    "confidence": "medium",
+    "kind": "constellation",
+    "notes": "This southern constellation is explicitly in the Enlil calendar slot. The slot cannot be interpreted as a literal northern-sky band. Its ancient name should not automatically import the Greek centaur story.",
+    "referenceStars": [
+      "Rigil Kentaurus",
+      "Hadar"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/NIN.MA%E1%B8%AA"
+    ]
+  },
+  {
+    "id": "ea-08",
+    "month": 8,
+    "monthName": "Arahsamna",
+    "path": "Ea",
+    "ancientName": "The Mad Dog",
+    "transliteration": "UR.IDIM",
+    "modernIdentification": "Lupus",
+    "confidence": "medium",
+    "kind": "constellation",
+    "notes": "A conventional regional identification; an exact ancient outline is not recoverable from the month-star list.",
+    "referenceStars": [
+      "Alpha Lupi"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+    ]
+  },
+  {
+    "id": "anu-08",
+    "month": 8,
+    "monthName": "Arahsamna",
+    "path": "Anu",
+    "ancientName": "The Scorpion",
+    "transliteration": "GÍR.TAB; Akkadian zuqaqīpu",
+    "modernIdentification": "Scorpius",
+    "confidence": "high",
+    "kind": "constellation",
+    "notes": "The ancient scorpion figure closely corresponds to this recognizable modern sky region.",
+    "referenceStars": [
+      "Antares",
+      "Dschubba",
+      "Shaula",
+      "Lesath"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+    ]
+  },
+  {
+    "id": "enlil-08",
+    "month": 8,
+    "monthName": "Arahsamna",
+    "path": "Enlil",
+    "ancientName": "The King",
+    "transliteration": "LUGAL; Akkadian šarru",
+    "modernIdentification": "Regulus (Alpha Leonis)",
+    "confidence": "high",
+    "kind": "star",
+    "notes": "A star within the Lion, which also has its own constellation slot in month III. Thus 36 entries do not mean 36 non-overlapping constellations.",
+    "referenceStars": [
+      "Regulus"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+    ]
+  },
+  {
+    "id": "ea-09",
+    "month": 9,
+    "monthName": "Kislimu",
+    "path": "Ea",
+    "ancientName": "Salbatanu",
+    "transliteration": "Ṣalbatānu / Salbatānu",
+    "modernIdentification": "Unresolved in Astrolabe B; later associated with Mars",
+    "confidence": "disputed",
+    "kind": "unidentified",
+    "notes": "Ea/month IX is secure as the textual slot; its original astronomical referent is disputed. Reiner–Pingree offer a fixed-star hypothesis for the older tradition but supply no candidate stellar coordinate here. The conventional Mars association must not be treated as proof of what this early calendar originally represented.",
+    "referenceStars": [],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://cdli.earth/articles/cdlj/2023-1",
+      "https://cdli.earth/artifacts/281769"
+    ],
+    "laterAssociation": "Mars"
+  },
+  {
+    "id": "anu-09",
+    "month": 9,
+    "monthName": "Kislimu",
+    "path": "Anu",
+    "ancientName": "The Panther",
+    "transliteration": "UD.KA.DU₈.A",
+    "modernIdentification": "Cygnus and part of Cepheus",
+    "confidence": "medium",
+    "kind": "constellation",
+    "notes": "Conventional regional identification centered on the Cygnus area; it is not identical to modern Cygnus's boundary.",
+    "referenceStars": [
+      "Deneb",
+      "Sadr"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/UD.KA.DU8.A"
+    ]
+  },
+  {
+    "id": "enlil-09",
+    "month": 9,
+    "monthName": "Kislimu",
+    "path": "Enlil",
+    "ancientName": "The Goat",
+    "transliteration": "UZ; Akkadian enzu",
+    "modernIdentification": "Lyra",
+    "confidence": "high",
+    "kind": "constellation",
+    "notes": "Vega is a locator for the conventional Lyra identification, not a claim that this entire ancient figure was one star.",
+    "referenceStars": [
+      "Vega",
+      "Sheliak",
+      "Sulafat"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+    ]
+  },
+  {
+    "id": "ea-10",
+    "month": 10,
+    "monthName": "Tebetu",
+    "path": "Ea",
+    "ancientName": "The Great One",
+    "transliteration": "GU.LA",
+    "modernIdentification": "Aquarius",
+    "confidence": "high",
+    "kind": "constellation",
+    "notes": "GU.LA, the Great One, is distinct from UR.GU.LA, the Lion. This is the month-star list's entry, not the preceding catalogue's sequence.",
+    "referenceStars": [
+      "Sadalmelik",
+      "Sadalsuud"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+    ]
+  },
+  {
+    "id": "anu-10",
+    "month": 10,
+    "monthName": "Tebetu",
+    "path": "Anu",
+    "ancientName": "The Crab",
+    "transliteration": "Alluttu / Alluttum; AL.LUL",
+    "modernIdentification": "Cancer",
+    "confidence": "high",
+    "kind": "constellation",
+    "notes": "The Akkadian name is used in Reiner–Pingree's table; AL.LUL is its common written equivalent.",
+    "referenceStars": [
+      "Delta Cancri",
+      "Gamma Cancri"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+    ]
+  },
+  {
+    "id": "enlil-10",
+    "month": 10,
+    "monthName": "Tebetu",
+    "path": "Enlil",
+    "ancientName": "The Eagle",
+    "transliteration": "A.MUŠEN; Akkadian erû",
+    "modernIdentification": "Aquila",
+    "confidence": "high",
+    "kind": "constellation",
+    "notes": "Altair and nearby stars locate the familiar Eagle region; exact ancient boundaries are not supplied.",
+    "referenceStars": [
+      "Altair",
+      "Tarazed",
+      "Alshain"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+    ]
+  },
+  {
+    "id": "ea-11",
+    "month": 11,
+    "monthName": "Shabatu",
+    "path": "Ea",
+    "ancientName": "Numushda",
+    "transliteration": "NU.MUŠ.DA / Numušda",
+    "modernIdentification": "Uncertain; Centaurus region has been proposed",
+    "confidence": "low",
+    "kind": "unidentified",
+    "notes": "A deity's name, linked with Adad in MUL.APIN. Its stellar location is uncertain; later lexical associations with a planet do not establish a fixed identity for this slot.",
+    "referenceStars": [],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/NU.MU%C5%A0.DA"
+    ]
+  },
+  {
+    "id": "anu-11",
+    "month": 11,
+    "monthName": "Shabatu",
+    "path": "Anu",
+    "ancientName": "The Great Swallow",
+    "transliteration": "SIM.MAḪ; Akkadian šinūnūtu",
+    "modernIdentification": "Pisces / Pegasus region; reconstruction varies",
+    "confidence": "medium",
+    "kind": "constellation",
+    "notes": "The Swallow's reconstruction and historical transformations are debated. It must not be equated wholesale with the modern pair of Pisces fish; no exact outline is asserted.",
+    "referenceStars": [],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/SIM.MA%E1%B8%AA"
+    ]
+  },
+  {
+    "id": "enlil-11",
+    "month": 11,
+    "monthName": "Shabatu",
+    "path": "Enlil",
+    "ancientName": "Damu",
+    "transliteration": "Da-mu / DAMU",
+    "modernIdentification": "Uncertain; associated with the Pig constellation",
+    "confidence": "low",
+    "kind": "unidentified",
+    "notes": "The entry is a divine name. Related texts equate Damu with the Pig, but the present evidence does not justify selecting an exact modern star or outline.",
+    "referenceStars": [],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/DAMU"
+    ]
+  },
+  {
+    "id": "ea-12",
+    "month": 12,
+    "monthName": "Addaru",
+    "path": "Ea",
+    "ancientName": "The Fish",
+    "transliteration": "KU₆; Akkadian nūnu",
+    "modernIdentification": "Piscis Austrinus, including Fomalhaut",
+    "confidence": "high",
+    "kind": "constellation",
+    "notes": "The southern Fish is distinct from the other fish figures near Pisces.",
+    "referenceStars": [
+      "Fomalhaut"
+    ],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/KU6"
+    ]
+  },
+  {
+    "id": "anu-12",
+    "month": 12,
+    "monthName": "Addaru",
+    "path": "Anu",
+    "ancientName": "Marduk",
+    "transliteration": "Marduk / AMAR.UTU; associated with Nēberu",
+    "modernIdentification": "Unresolved in Astrolabe B; later associations vary",
+    "confidence": "disputed",
+    "kind": "unidentified",
+    "notes": "Astrolabe B places Marduk in Anu/month XII; the Pinches reconstruction exchanges it with the Fox. Its original referent is disputed. BPO 2 Table II gives Jupiter without a fixed-star position; a later commentary (III 29a, p. 43) gives Mercury and the Crook, which the editors explicitly say they do not understand (p. 32). These are contextual name equations, not secure recovered coordinates. Nēberu also has context-dependent referents.",
+    "referenceStars": [],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://cdli.earth/articles/cdlj/2023-1",
+      "https://cdli.earth/artifacts/281769"
+    ],
+    "laterAssociation": "Jupiter; other texts associate Marduk with Mercury or the Crook"
+  },
+  {
+    "id": "enlil-12",
+    "month": 12,
+    "monthName": "Addaru",
+    "path": "Enlil",
+    "ancientName": "The Fox",
+    "transliteration": "KA₅.A; Akkadian šēlebu",
+    "modernIdentification": "Near the Big Dipper's handle; Alcor / neighboring stars proposed",
+    "confidence": "low",
+    "kind": "asterism",
+    "notes": "The Fox is linked to the Wagon's pole in ancient descriptions. Alcor (80 Ursae Majoris) is a proposed identification; broader Ursa Major/Draco reconstructions exist. No exact outline is fixed here.",
+    "referenceStars": [],
+    "sources": [
+      "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf",
+      "https://ase.exopla.net/index.php/KA5.A"
+    ]
+  }
+]

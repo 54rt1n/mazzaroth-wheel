@@ -1,0 +1,673 @@
+{
+  "schemaVersion": 1,
+  "compiledOn": "2026-10-24",
+  "datasetRole": "Sourced textual comparisons; not a recovered ancient Hebrew sky atlas",
+  "traditions": [
+    {
+      "id": "hebrew_biblical",
+      "label": "Hebrew (biblical names)",
+      "description": "Two traditional identifications from Job and Amos, shown as catalogue locator rings; disputed terms remain unlocated.",
+      "classification": "textual comparison",
+      "historicalScope": "Biblical Hebrew attestations, with later interpretive identifications kept explicit.",
+      "geometryNotice": "Rings identify selected modern catalogue members of the conventionally identified groups. The cited biblical passages preserve neither these memberships nor connecting lines. No ancient Hebrew outline is claimed.",
+      "source": {
+        "id": "mazzaroth_hebrew_comparison",
+        "url": "https://www.mechon-mamre.org/p/pt/pt2738.htm",
+        "descriptionUrl": "https://www.mechon-mamre.org/p/pt/pt2738.htm",
+        "revision": "hebrew-comparison-2026-10-24-v1",
+        "authors": "Mazzaroth project compilation from the cited primary texts",
+        "authorsText": "Hebrew names are attested in the Hebrew Bible or medieval Hebrew astronomical texts. Source identifications, chosen catalogue locators, and modern reference geometry are distinguished in each record. All notes are new paraphrases; no modern translation passages are redistributed.",
+        "license": "CC BY-SA 4.0 (compilation)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "licenseText": "This new selection, arrangement and annotation is provided under CC BY-SA 4.0. The ancient names and historical facts remain subject to their own public-domain status. Modern reference geometry, where used, is from the Stellarium team under CC BY-SA 4.0 and is separately credited; no rights in cited websites or modern translations are asserted.",
+        "changes": "New evidence-based comparison compilation. Cited texts supply names, not a recovered Hebrew line atlas. Modern catalogue locators and borrowed reference geometry are explicitly identified."
+      },
+      "sources": [
+        {
+          "label": "Job 9:9 — Hebrew text and JPS 1917 translation",
+          "url": "https://mechon-mamre.org/p/pt/pt2709.htm",
+          "role": "Primary biblical attestation; the translation supplies conventional modern identifications."
+        },
+        {
+          "label": "Job 38:31–32 — Hebrew text and JPS 1917 translation",
+          "url": "https://www.mechon-mamre.org/p/pt/pt2738.htm",
+          "role": "Primary attestation of Kimah, Kesil, Mazzaroth, and Ayish."
+        },
+        {
+          "label": "Amos 5:8 — Hebrew text and JPS 1917 translation",
+          "url": "https://www.mechon-mamre.org/p/pt/pt1505.htm",
+          "role": "Primary attestation of Kimah and Kesil."
+        },
+        {
+          "label": "Babylonian Talmud, Berakhot 58b:12–16",
+          "url": "https://www.sefaria.org/Berakhot.58b.12-16",
+          "role": "Primary later rabbinic discussion, including disagreement over Ash/Yota."
+        }
+      ],
+      "constellations": [
+        {
+          "id": "HEB biblical kimah",
+          "name": "Kīmāh · Pleiades",
+          "nativeName": "כימה",
+          "identification": "Pleiades star cluster",
+          "status": "Traditional identification; locator membership is modern",
+          "geometryRole": "Unconnected modern catalogue-member locators",
+          "lines": [
+            [
+              "HIP 17702"
+            ],
+            [
+              "HIP 17847"
+            ],
+            [
+              "HIP 17499"
+            ],
+            [
+              "HIP 17573"
+            ],
+            [
+              "HIP 17608"
+            ],
+            [
+              "HIP 17531"
+            ],
+            [
+              "HIP 17851"
+            ],
+            [
+              "HIP 17489"
+            ],
+            [
+              "HIP 17579"
+            ]
+          ],
+          "notes": "Kimah is named in Job 9:9, Job 38:31, and Amos 5:8. JPS 1917 renders the name as Pleiades. Nine familiar catalogue members locate that conventional identification; the ancient passages do not specify this list. The stars are shown separately, with no invented connecting outline.",
+          "sources": [
+            {
+              "label": "Job 9:9 — Hebrew text and JPS 1917 translation",
+              "url": "https://mechon-mamre.org/p/pt/pt2709.htm",
+              "role": "Primary biblical attestation; the translation supplies conventional modern identifications."
+            },
+            {
+              "label": "Job 38:31–32 — Hebrew text and JPS 1917 translation",
+              "url": "https://www.mechon-mamre.org/p/pt/pt2738.htm",
+              "role": "Primary attestation of Kimah, Kesil, Mazzaroth, and Ayish."
+            },
+            {
+              "label": "Amos 5:8 — Hebrew text and JPS 1917 translation",
+              "url": "https://www.mechon-mamre.org/p/pt/pt1505.htm",
+              "role": "Primary attestation of Kimah and Kesil."
+            },
+            {
+              "label": "Babylonian Talmud, Berakhot 58b:12–16",
+              "url": "https://www.sefaria.org/Berakhot.58b.12-16",
+              "role": "Primary later rabbinic discussion, including disagreement over Ash/Yota."
+            }
+          ]
+        },
+        {
+          "id": "HEB biblical kesil",
+          "name": "Kəsīl · Orion",
+          "nativeName": "כסיל",
+          "identification": "Orion",
+          "status": "Traditional identification; locator membership is modern",
+          "geometryRole": "Unconnected modern catalogue-member locators",
+          "lines": [
+            [
+              "HIP 27989"
+            ],
+            [
+              "HIP 25336"
+            ],
+            [
+              "HIP 26727"
+            ],
+            [
+              "HIP 26311"
+            ],
+            [
+              "HIP 25930"
+            ],
+            [
+              "HIP 24436"
+            ],
+            [
+              "HIP 27366"
+            ]
+          ],
+          "notes": "Kesil is named in Job 9:9, Job 38:31, and Amos 5:8. JPS 1917 renders the name as Orion. Seven familiar catalogue stars are visual locators for that traditional identification, not an attested biblical member list or connecting figure.",
+          "sources": [
+            {
+              "label": "Job 9:9 — Hebrew text and JPS 1917 translation",
+              "url": "https://mechon-mamre.org/p/pt/pt2709.htm",
+              "role": "Primary biblical attestation; the translation supplies conventional modern identifications."
+            },
+            {
+              "label": "Job 38:31–32 — Hebrew text and JPS 1917 translation",
+              "url": "https://www.mechon-mamre.org/p/pt/pt2738.htm",
+              "role": "Primary attestation of Kimah, Kesil, Mazzaroth, and Ayish."
+            },
+            {
+              "label": "Amos 5:8 — Hebrew text and JPS 1917 translation",
+              "url": "https://www.mechon-mamre.org/p/pt/pt1505.htm",
+              "role": "Primary attestation of Kimah and Kesil."
+            },
+            {
+              "label": "Babylonian Talmud, Berakhot 58b:12–16",
+              "url": "https://www.sefaria.org/Berakhot.58b.12-16",
+              "role": "Primary later rabbinic discussion, including disagreement over Ash/Yota."
+            }
+          ]
+        }
+      ],
+      "unlocated": [
+        {
+          "id": "HEB biblical ayish",
+          "name": "ʿAsh / ʿAyish",
+          "nativeName": "עש / עיש",
+          "status": "Disputed identification; not plotted",
+          "notes": "Job 9:9 names Ash; Job 38:32 names Ayish with its children. JPS 1917 renders these as the Bear, but Berakhot 58b:15 records competing identifications of Ash/Yota in the tail of Aries or head of Taurus. A fixed Ursa Major, Hyades, or other outline is therefore not assigned in this layer.",
+          "sources": [
+            {
+              "label": "Job 9:9 — Hebrew text and JPS 1917 translation",
+              "url": "https://mechon-mamre.org/p/pt/pt2709.htm",
+              "role": "Primary biblical attestation; the translation supplies conventional modern identifications."
+            },
+            {
+              "label": "Job 38:31–32 — Hebrew text and JPS 1917 translation",
+              "url": "https://www.mechon-mamre.org/p/pt/pt2738.htm",
+              "role": "Primary attestation of Kimah, Kesil, Mazzaroth, and Ayish."
+            },
+            {
+              "label": "Babylonian Talmud, Berakhot 58b:12–16",
+              "url": "https://www.sefaria.org/Berakhot.58b.12-16",
+              "role": "Primary later rabbinic discussion, including disagreement over Ash/Yota."
+            }
+          ]
+        },
+        {
+          "id": "HEB biblical mazzaroth",
+          "name": "Mazzaroth",
+          "nativeName": "מזרות",
+          "status": "Referent unresolved; not plotted",
+          "notes": "The term occurs in Job 38:32. The cited text does not enumerate member stars or define a twelve-sign or thirty-six-star geometry. This record therefore remains unlocated; it is not equated with the separate medieval zodiac layer.",
+          "sources": [
+            {
+              "label": "Job 38:31–32 — Hebrew text and JPS 1917 translation",
+              "url": "https://www.mechon-mamre.org/p/pt/pt2738.htm",
+              "role": "Primary attestation of Kimah, Kesil, Mazzaroth, and Ayish."
+            }
+          ]
+        },
+        {
+          "id": "HEB biblical south",
+          "name": "Chambers of the south",
+          "nativeName": "חדרי תמן",
+          "status": "Region not specified; not plotted",
+          "notes": "The phrase occurs in Job 9:9, without a list of stars or a bounded figure. No catalogue point or southern constellation is imposed.",
+          "sources": [
+            {
+              "label": "Job 9:9 — Hebrew text and JPS 1917 translation",
+              "url": "https://mechon-mamre.org/p/pt/pt2709.htm",
+              "role": "Primary biblical attestation; the translation supplies conventional modern identifications."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hebrew_zodiac",
+      "label": "Hebrew (medieval zodiac)",
+      "description": "Twelve attested Hebrew zodiac names on modern reference outlines, kept separate from the biblical-name layer.",
+      "classification": "textual comparison",
+      "historicalScope": "Medieval Hebrew astronomical naming, documented in Maimonides (12th century); corroborated by a Sefer Yetzirah recension.",
+      "geometryNotice": "Modern Western line figures provide comparison geometry only. They are not transmitted Hebrew outlines and are not the equal 30-degree zodiac divisions used in medieval calculations. Changing the sky epoch does not redetermine the historical date of the source.",
+      "source": {
+        "id": "mazzaroth_hebrew_medieval_zodiac",
+        "url": "https://www.mechon-mamre.org/i/1103.htm",
+        "descriptionUrl": "https://www.mechon-mamre.org/i/1103.htm",
+        "revision": "hebrew-comparison-2026-10-24-v1",
+        "authors": "Mazzaroth project compilation; zodiac names attested by Maimonides; modern line figures by the Stellarium team",
+        "authorsText": "Hebrew names are attested in the Hebrew Bible or medieval Hebrew astronomical texts. Source identifications, chosen catalogue locators, and modern reference geometry are distinguished in each record. All notes are new paraphrases; no modern translation passages are redistributed. The twelve modern reference polylines are preserved from Stellarium modern at revision 0d956aacee305c29a92498860bc394ed21e0e731.",
+        "license": "CC BY-SA 4.0 (compilation and reference geometry)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "licenseText": "This new selection, arrangement and annotation is provided under CC BY-SA 4.0. The ancient names and historical facts remain subject to their own public-domain status. Modern reference geometry, where used, is from the Stellarium team under CC BY-SA 4.0 and is separately credited; no rights in cited websites or modern translations are asserted.",
+        "changes": "Hebrew names and new annotations mapped to corresponding modern Western figures. Modern source polylines unchanged; these are comparison outlines, not recovered medieval Hebrew drawings."
+      },
+      "sources": [
+        {
+          "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+          "url": "https://www.mechon-mamre.org/i/1103.htm",
+          "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+        },
+        {
+          "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+          "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+          "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+        },
+        {
+          "label": "Sefer Yetzirah, Gra recension 5:4",
+          "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+          "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+        },
+        {
+          "label": "Stellarium modern line figures — pinned source",
+          "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+          "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+          "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+        }
+      ],
+      "constellations": [
+        {
+          "id": "HEB zodiac Ari",
+          "name": "Ṭāleh · Aries",
+          "nativeName": "טלה",
+          "referenceModernId": "CON modern Ari",
+          "identification": "Aries",
+          "status": "Attested medieval name; modern reference outline",
+          "geometryRole": "Borrowed modern Western comparison figure",
+          "translation": "Lamb / ram",
+          "notes": "טלה (Ṭāleh, lamb / ram) is included in Maimonides’ Hebrew list. It is associated here with Aries for comparison. The connecting lines are the modern Stellarium figure; this mapping does not claim a preserved Hebrew star-membership list, artwork, or sign boundary.",
+          "sources": [
+            {
+              "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+              "url": "https://www.mechon-mamre.org/i/1103.htm",
+              "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+            },
+            {
+              "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+              "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+              "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+            },
+            {
+              "label": "Sefer Yetzirah, Gra recension 5:4",
+              "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+              "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+            },
+            {
+              "label": "Stellarium modern line figures — pinned source",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+              "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+              "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+            }
+          ]
+        },
+        {
+          "id": "HEB zodiac Tau",
+          "name": "Shor · Taurus",
+          "nativeName": "שור",
+          "referenceModernId": "CON modern Tau",
+          "identification": "Taurus",
+          "status": "Attested medieval name; modern reference outline",
+          "geometryRole": "Borrowed modern Western comparison figure",
+          "translation": "Ox / bull",
+          "notes": "שור (Shor, ox / bull) is included in Maimonides’ Hebrew list. It is associated here with Taurus for comparison. The connecting lines are the modern Stellarium figure; this mapping does not claim a preserved Hebrew star-membership list, artwork, or sign boundary.",
+          "sources": [
+            {
+              "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+              "url": "https://www.mechon-mamre.org/i/1103.htm",
+              "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+            },
+            {
+              "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+              "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+              "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+            },
+            {
+              "label": "Sefer Yetzirah, Gra recension 5:4",
+              "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+              "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+            },
+            {
+              "label": "Stellarium modern line figures — pinned source",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+              "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+              "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+            }
+          ]
+        },
+        {
+          "id": "HEB zodiac Gem",
+          "name": "Teʾomim · Gemini",
+          "nativeName": "תאומים",
+          "referenceModernId": "CON modern Gem",
+          "identification": "Gemini",
+          "status": "Attested medieval name; modern reference outline",
+          "geometryRole": "Borrowed modern Western comparison figure",
+          "translation": "Twins",
+          "notes": "תאומים (Teʾomim, twins) is included in Maimonides’ Hebrew list. It is associated here with Gemini for comparison. The connecting lines are the modern Stellarium figure; this mapping does not claim a preserved Hebrew star-membership list, artwork, or sign boundary.",
+          "sources": [
+            {
+              "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+              "url": "https://www.mechon-mamre.org/i/1103.htm",
+              "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+            },
+            {
+              "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+              "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+              "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+            },
+            {
+              "label": "Sefer Yetzirah, Gra recension 5:4",
+              "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+              "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+            },
+            {
+              "label": "Stellarium modern line figures — pinned source",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+              "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+              "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+            }
+          ]
+        },
+        {
+          "id": "HEB zodiac Cnc",
+          "name": "Sarṭan · Cancer",
+          "nativeName": "סרטן",
+          "referenceModernId": "CON modern Cnc",
+          "identification": "Cancer",
+          "status": "Attested medieval name; modern reference outline",
+          "geometryRole": "Borrowed modern Western comparison figure",
+          "translation": "Crab",
+          "notes": "סרטן (Sarṭan, crab) is included in Maimonides’ Hebrew list. It is associated here with Cancer for comparison. The connecting lines are the modern Stellarium figure; this mapping does not claim a preserved Hebrew star-membership list, artwork, or sign boundary.",
+          "sources": [
+            {
+              "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+              "url": "https://www.mechon-mamre.org/i/1103.htm",
+              "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+            },
+            {
+              "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+              "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+              "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+            },
+            {
+              "label": "Sefer Yetzirah, Gra recension 5:4",
+              "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+              "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+            },
+            {
+              "label": "Stellarium modern line figures — pinned source",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+              "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+              "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+            }
+          ]
+        },
+        {
+          "id": "HEB zodiac Leo",
+          "name": "Aryeh · Leo",
+          "nativeName": "אריה",
+          "referenceModernId": "CON modern Leo",
+          "identification": "Leo",
+          "status": "Attested medieval name; modern reference outline",
+          "geometryRole": "Borrowed modern Western comparison figure",
+          "translation": "Lion",
+          "notes": "אריה (Aryeh, lion) is included in Maimonides’ Hebrew list. It is associated here with Leo for comparison. The connecting lines are the modern Stellarium figure; this mapping does not claim a preserved Hebrew star-membership list, artwork, or sign boundary.",
+          "sources": [
+            {
+              "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+              "url": "https://www.mechon-mamre.org/i/1103.htm",
+              "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+            },
+            {
+              "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+              "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+              "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+            },
+            {
+              "label": "Sefer Yetzirah, Gra recension 5:4",
+              "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+              "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+            },
+            {
+              "label": "Stellarium modern line figures — pinned source",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+              "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+              "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+            }
+          ]
+        },
+        {
+          "id": "HEB zodiac Vir",
+          "name": "Betulah · Virgo",
+          "nativeName": "בתולה",
+          "referenceModernId": "CON modern Vir",
+          "identification": "Virgo",
+          "status": "Attested medieval name; modern reference outline",
+          "geometryRole": "Borrowed modern Western comparison figure",
+          "translation": "Maiden",
+          "notes": "בתולה (Betulah, maiden) is included in Maimonides’ Hebrew list. It is associated here with Virgo for comparison. The connecting lines are the modern Stellarium figure; this mapping does not claim a preserved Hebrew star-membership list, artwork, or sign boundary.",
+          "sources": [
+            {
+              "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+              "url": "https://www.mechon-mamre.org/i/1103.htm",
+              "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+            },
+            {
+              "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+              "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+              "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+            },
+            {
+              "label": "Sefer Yetzirah, Gra recension 5:4",
+              "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+              "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+            },
+            {
+              "label": "Stellarium modern line figures — pinned source",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+              "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+              "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+            }
+          ]
+        },
+        {
+          "id": "HEB zodiac Lib",
+          "name": "Moznayim · Libra",
+          "nativeName": "מאזניים",
+          "referenceModernId": "CON modern Lib",
+          "identification": "Libra",
+          "status": "Attested medieval name; modern reference outline",
+          "geometryRole": "Borrowed modern Western comparison figure",
+          "translation": "Scales",
+          "notes": "מאזניים (Moznayim, scales) is included in Maimonides’ Hebrew list. It is associated here with Libra for comparison. The connecting lines are the modern Stellarium figure; this mapping does not claim a preserved Hebrew star-membership list, artwork, or sign boundary.",
+          "sources": [
+            {
+              "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+              "url": "https://www.mechon-mamre.org/i/1103.htm",
+              "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+            },
+            {
+              "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+              "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+              "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+            },
+            {
+              "label": "Sefer Yetzirah, Gra recension 5:4",
+              "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+              "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+            },
+            {
+              "label": "Stellarium modern line figures — pinned source",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+              "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+              "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+            }
+          ]
+        },
+        {
+          "id": "HEB zodiac Sco",
+          "name": "ʿAqrav · Scorpius",
+          "nativeName": "עקרב",
+          "referenceModernId": "CON modern Sco",
+          "identification": "Scorpius",
+          "status": "Attested medieval name; modern reference outline",
+          "geometryRole": "Borrowed modern Western comparison figure",
+          "translation": "Scorpion",
+          "notes": "עקרב (ʿAqrav, scorpion) is included in Maimonides’ Hebrew list. It is associated here with Scorpius for comparison. The connecting lines are the modern Stellarium figure; this mapping does not claim a preserved Hebrew star-membership list, artwork, or sign boundary.",
+          "sources": [
+            {
+              "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+              "url": "https://www.mechon-mamre.org/i/1103.htm",
+              "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+            },
+            {
+              "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+              "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+              "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+            },
+            {
+              "label": "Sefer Yetzirah, Gra recension 5:4",
+              "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+              "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+            },
+            {
+              "label": "Stellarium modern line figures — pinned source",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+              "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+              "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+            }
+          ]
+        },
+        {
+          "id": "HEB zodiac Sgr",
+          "name": "Qeshet · Sagittarius",
+          "nativeName": "קשת",
+          "referenceModernId": "CON modern Sgr",
+          "identification": "Sagittarius",
+          "status": "Attested medieval name; modern reference outline",
+          "geometryRole": "Borrowed modern Western comparison figure",
+          "translation": "Bow",
+          "notes": "קשת (Qeshet, bow) is included in Maimonides’ Hebrew list. It is associated here with Sagittarius for comparison. The connecting lines are the modern Stellarium figure; this mapping does not claim a preserved Hebrew star-membership list, artwork, or sign boundary.",
+          "sources": [
+            {
+              "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+              "url": "https://www.mechon-mamre.org/i/1103.htm",
+              "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+            },
+            {
+              "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+              "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+              "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+            },
+            {
+              "label": "Sefer Yetzirah, Gra recension 5:4",
+              "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+              "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+            },
+            {
+              "label": "Stellarium modern line figures — pinned source",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+              "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+              "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+            }
+          ]
+        },
+        {
+          "id": "HEB zodiac Cap",
+          "name": "Gedi · Capricornus",
+          "nativeName": "גדי",
+          "referenceModernId": "CON modern Cap",
+          "identification": "Capricornus",
+          "status": "Attested medieval name; modern reference outline",
+          "geometryRole": "Borrowed modern Western comparison figure",
+          "translation": "Kid / young goat",
+          "notes": "גדי (Gedi, kid / young goat) is included in Maimonides’ Hebrew list. It is associated here with Capricornus for comparison. The connecting lines are the modern Stellarium figure; this mapping does not claim a preserved Hebrew star-membership list, artwork, or sign boundary.",
+          "sources": [
+            {
+              "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+              "url": "https://www.mechon-mamre.org/i/1103.htm",
+              "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+            },
+            {
+              "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+              "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+              "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+            },
+            {
+              "label": "Sefer Yetzirah, Gra recension 5:4",
+              "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+              "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+            },
+            {
+              "label": "Stellarium modern line figures — pinned source",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+              "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+              "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+            }
+          ]
+        },
+        {
+          "id": "HEB zodiac Aqr",
+          "name": "Deli · Aquarius",
+          "nativeName": "דלי",
+          "referenceModernId": "CON modern Aqr",
+          "identification": "Aquarius",
+          "status": "Attested medieval name; modern reference outline",
+          "geometryRole": "Borrowed modern Western comparison figure",
+          "translation": "Bucket",
+          "notes": "דלי (Deli, bucket) is included in Maimonides’ Hebrew list. It is associated here with Aquarius for comparison. The connecting lines are the modern Stellarium figure; this mapping does not claim a preserved Hebrew star-membership list, artwork, or sign boundary.",
+          "sources": [
+            {
+              "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+              "url": "https://www.mechon-mamre.org/i/1103.htm",
+              "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+            },
+            {
+              "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+              "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+              "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+            },
+            {
+              "label": "Sefer Yetzirah, Gra recension 5:4",
+              "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+              "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+            },
+            {
+              "label": "Stellarium modern line figures — pinned source",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+              "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+              "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+            }
+          ]
+        },
+        {
+          "id": "HEB zodiac Psc",
+          "name": "Dagim · Pisces",
+          "nativeName": "דגים",
+          "referenceModernId": "CON modern Psc",
+          "identification": "Pisces",
+          "status": "Attested medieval name; modern reference outline",
+          "geometryRole": "Borrowed modern Western comparison figure",
+          "translation": "Fishes",
+          "notes": "דגים (Dagim, fishes) is included in Maimonides’ Hebrew list. It is associated here with Pisces for comparison. The connecting lines are the modern Stellarium figure; this mapping does not claim a preserved Hebrew star-membership list, artwork, or sign boundary.",
+          "sources": [
+            {
+              "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+              "url": "https://www.mechon-mamre.org/i/1103.htm",
+              "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+            },
+            {
+              "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+              "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+              "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+            },
+            {
+              "label": "Sefer Yetzirah, Gra recension 5:4",
+              "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+              "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+            },
+            {
+              "label": "Stellarium modern line figures — pinned source",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+              "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+              "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+            }
+          ]
+        }
+      ],
+      "unlocated": []
+    }
+  ]
+}

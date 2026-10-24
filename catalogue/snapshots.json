@@ -1,0 +1,41 @@
+{
+  "sourceCommit": "094f2cd58162a9f71eca816d62ebabdf9383ba78",
+  "snapshotDate": "2026-10-24",
+  "files": {
+    "stars.json.gz": {
+      "sha256": "c72971673f7d34fe9cc14366c75d52b0186eb8a608f56a09e0a09c3952138d3b",
+      "uncompressedSha256": "aac045f90e78384d28ed480ce7400e26d0ae962271c285af48ae2912b651156b",
+      "uncompressedBytes": 6731994
+    },
+    "resolver.json.gz": {
+      "sha256": "5d415c8336b0a7a84f917fad51813bc34251b33078eba95ab82787d4313244cc",
+      "uncompressedSha256": "37ae8b3fbe83e3d067ff36fb86526a542fa3eca456df4c9abac4fb32fc33fadc",
+      "uncompressedBytes": 63697431
+    },
+    "name_resolver.json.gz": {
+      "sha256": "95490942c87b2003287f46923db763bdb93ab9d0c8c8d610ceb054a6b4ddab37",
+      "uncompressedSha256": "5d24e66e12b464c562b14cad59b06bdf808de17debd3d65ca9a6aea8f23b8fda",
+      "uncompressedBytes": 2999230
+    },
+    "hipparcos_main.tsv.gz": {
+      "sha256": "e737902f65e5cf8a7e4e9125ae6e7f0ad17e946545e8becf63d68f35489acdfb",
+      "uncompressedSha256": "6a0c239b7ff005e283366d41b9a585281f6f236b682ed849c81ab1b88ce4f6f1",
+      "uncompressedBytes": 9333890
+    },
+    "pole_calibration.json": {
+      "sha256": "15e2d0f78b5f7e2e025ca5a8227f6692fe3097f403d5b2eda103a1db2e55219d"
+    },
+    "provenance.json": {
+      "sha256": "6cf456581807d8f55844ea7fd9d4a73aa1787d84ba6aead4ea0e995fad965b51"
+    },
+    "iau_name_crosswalk.json": {
+      "sha256": "11e7a84cebf22895f41c4867d9b1ebe32dd06ed1585a5c7c63c87dbf2db1264d"
+    },
+    "display_deduplication.json": {
+      "sha256": "09ebba110563cee3364a594321539f4961e46c3c182c54bee0bd01855b28a89c"
+    },
+    "anchor_resolver.json": {
+      "sha256": "35e8a67dca2780f60673b10f1641126cd13e587abbadda8799bce6c51076b936"
+    }
+  }
+}

@@ -1,0 +1,4060 @@
+{
+  "source": "https://exopla.net/star-names/modern-iau-star-names/",
+  "names": [
+    {
+      "properName": "Alawaidh",
+      "hip": 85829,
+      "hr": 6555,
+      "hd": 159560,
+      "iauBayer": "ν2 Draconis"
+    },
+    {
+      "properName": "Bawy",
+      "hip": 10324,
+      "hr": 649,
+      "hd": 13611,
+      "iauBayer": "ξ1 Cet"
+    },
+    {
+      "properName": "Gajahmina",
+      "hip": 5364,
+      "hr": 334,
+      "hd": 6805,
+      "iauBayer": "η Cet"
+    },
+    {
+      "properName": "Alnaamaat",
+      "hip": 9347,
+      "hr": 585,
+      "hd": 12274,
+      "iauBayer": "υ Cet"
+    },
+    {
+      "properName": "Tianhun",
+      "hip": 4147,
+      "hr": 248,
+      "hd": 5112,
+      "iauBayer": "20 Cet"
+    },
+    {
+      "properName": "Tiancang",
+      "hip": 6537,
+      "hr": 402,
+      "hd": 8512,
+      "iauBayer": "θ Cet"
+    },
+    {
+      "properName": "Chugao",
+      "hip": 11345,
+      "hr": 708,
+      "hd": 15130,
+      "iauBayer": "ρ Cet"
+    },
+    {
+      "properName": "Kuda",
+      "hip": 3092,
+      "hr": 165,
+      "hd": 3627,
+      "iauBayer": "δ And"
+    },
+    {
+      "properName": "Tianjiu",
+      "hip": 841,
+      "hr": 27,
+      "hd": 571,
+      "iauBayer": "22 And"
+    },
+    {
+      "properName": "Weixiu",
+      "hip": 12719,
+      "hr": 801,
+      "hd": 16908,
+      "iauBayer": "35 Ari"
+    },
+    {
+      "properName": "Zuogeng",
+      "hip": 10306,
+      "hr": 646,
+      "hd": 13555,
+      "iauBayer": "η Ari"
+    },
+    {
+      "properName": "Lintangkumba",
+      "hip": 112716,
+      "hr": 8679,
+      "hd": 216032,
+      "iauBayer": "τ2 Aqr"
+    },
+    {
+      "properName": "Puwuh Atarung",
+      "hip": 116771,
+      "hr": 8969,
+      "hd": 222368,
+      "iauBayer": "ι Psc"
+    },
+    {
+      "properName": "Buranun",
+      "hip": 5824,
+      "hr": 367,
+      "hd": 7446,
+      "iauBayer": "88 Psc"
+    },
+    {
+      "properName": "Idigna",
+      "hip": 7535,
+      "hr": 463,
+      "hd": 9919,
+      "iauBayer": "π Psc"
+    },
+    {
+      "properName": "Simmakh",
+      "hip": 1645,
+      "hr": 80,
+      "hd": 1635,
+      "iauBayer": "41 Psc"
+    },
+    {
+      "properName": "Paushna",
+      "hip": 5743,
+      "hr": 362,
+      "hd": 7345,
+      "iauBayer": "ζ Psc B"
+    },
+    {
+      "properName": "Pili",
+      "hip": 118268,
+      "hr": 9072,
+      "hd": 224617,
+      "iauBayer": "ω Psc"
+    },
+    {
+      "properName": "Yunyu",
+      "hip": 114971,
+      "hr": 8852,
+      "hd": 219615,
+      "iauBayer": "γ Psc"
+    },
+    {
+      "properName": "Waiping",
+      "hip": 3786,
+      "hr": 224,
+      "hd": 4656,
+      "iauBayer": "δ Psc"
+    },
+    {
+      "properName": "Jordanus",
+      "hip": 66458,
+      "hr": 5127,
+      "hd": 118623,
+      "iauBayer": "25 CVn"
+    },
+    {
+      "properName": "Tiangang",
+      "hip": 111188,
+      "hr": 8576,
+      "hd": 213398,
+      "iauBayer": "β PsA"
+    },
+    {
+      "properName": "Baijiu",
+      "hip": 107380,
+      "hr": 8305,
+      "hd": 206742,
+      "iauBayer": "ι PsA"
+    },
+    {
+      "properName": "Fenmu",
+      "hip": 111497,
+      "hr": 8597,
+      "hd": 213998,
+      "iauBayer": "η Aqr"
+    },
+    {
+      "properName": "Pabilsang",
+      "hip": 92845,
+      "hr": 7120,
+      "hd": 175190,
+      "iauBayer": "ν2 Sgr"
+    },
+    {
+      "properName": "Heryibwia",
+      "hip": 89642,
+      "hr": 6832,
+      "hd": 167618,
+      "iauBayer": "η Sgr"
+    },
+    {
+      "properName": "Kenemu",
+      "hip": 95168,
+      "hr": 7340,
+      "hd": 181577,
+      "iauBayer": "ρ1 Sgr"
+    },
+    {
+      "properName": "Nandou",
+      "hip": 92041,
+      "hr": 7039,
+      "hd": 173300,
+      "iauBayer": "φ Sgr"
+    },
+    {
+      "properName": "Jian",
+      "hip": 93085,
+      "hr": 7150,
+      "hd": 175775,
+      "iauBayer": "ξ2 Sgr"
+    },
+    {
+      "properName": "Alwasl",
+      "hip": 91014,
+      "hr": 6960,
+      "hd": 171034,
+      "iauBayer": "HIP 91014"
+    },
+    {
+      "properName": "Alqiladah",
+      "hip": 93683,
+      "hr": 7217,
+      "hd": 177241,
+      "iauBayer": "ο Sgr"
+    },
+    {
+      "properName": "Gouguo",
+      "hip": 98688,
+      "hr": 7650,
+      "hd": 189763,
+      "iauBayer": "c Sgr"
+    },
+    {
+      "properName": "Tianyue",
+      "hip": 88116,
+      "hr": 6700,
+      "hd": 163955,
+      "iauBayer": "4 Sgr"
+    },
+    {
+      "properName": "Dhanuśarāgra",
+      "hip": 88567,
+      "hr": 6742,
+      "hd": 164975,
+      "iauBayer": "γ1 Sgr"
+    },
+    {
+      "properName": "Magur",
+      "hip": 90037,
+      "hr": 6862,
+      "hd": 168592,
+      "iauBayer": "HIP 90037"
+    },
+    {
+      "properName": "Alqubba",
+      "hip": 94160,
+      "hr": 7259,
+      "hd": 178345,
+      "iauBayer": "β CrA"
+    },
+    {
+      "properName": "Qedty",
+      "hip": 94005,
+      "hr": 7242,
+      "hd": 177873,
+      "iauBayer": "δ CrA"
+    },
+    {
+      "properName": "Bie",
+      "hip": 90982,
+      "hr": 6951,
+      "hd": 170845,
+      "iauBayer": "θ CrA"
+    },
+    {
+      "properName": "Alsamaka",
+      "hip": 110538,
+      "hr": 8538,
+      "hd": 212496,
+      "iauBayer": "β Lac"
+    },
+    {
+      "properName": "Neichu",
+      "hip": 109410,
+      "hr": 8454,
+      "hd": 210459,
+      "iauBayer": "π2 Peg"
+    },
+    {
+      "properName": "Jiu",
+      "hip": 109176,
+      "hr": 8430,
+      "hd": 210027,
+      "iauBayer": "ι Peg"
+    },
+    {
+      "properName": "Tugongli",
+      "hip": 112447,
+      "hr": 8665,
+      "hd": 215648,
+      "iauBayer": "ξ Peg"
+    },
+    {
+      "properName": "Ligong",
+      "hip": 112440,
+      "hr": 8667,
+      "hd": 215665,
+      "iauBayer": "λ Peg"
+    },
+    {
+      "properName": "Leidian",
+      "hip": 113186,
+      "hr": 8717,
+      "hd": 216735,
+      "iauBayer": "ρ Peg"
+    },
+    {
+      "properName": "Muning",
+      "hip": 78072,
+      "hr": 5933,
+      "hd": 142860,
+      "iauBayer": "γ Ser"
+    },
+    {
+      "properName": "Uñallamacha",
+      "hip": 84556,
+      "hr": null,
+      "hd": 155985,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Tianjinnan",
+      "hip": 104732,
+      "hr": 8115,
+      "hd": 202109,
+      "iauBayer": "ζ Cyg"
+    },
+    {
+      "properName": "Enduri Senggu",
+      "hip": 104887,
+      "hr": 8130,
+      "hd": 202444,
+      "iauBayer": "τ Cyg"
+    },
+    {
+      "properName": "Almighzal",
+      "hip": 98110,
+      "hr": 7615,
+      "hd": 188947,
+      "iauBayer": "η Cyg"
+    },
+    {
+      "properName": "Dhanishta",
+      "hip": 102531,
+      "hr": 7947,
+      "hd": 197963,
+      "iauBayer": "γ1 Del"
+    },
+    {
+      "properName": "Protome",
+      "hip": 104538,
+      "hr": 8098,
+      "hd": 201616,
+      "iauBayer": "6 Equ"
+    },
+    {
+      "properName": "Tepennekhet",
+      "hip": 104858,
+      "hr": 8123,
+      "hd": 202275,
+      "iauBayer": "δ Equ"
+    },
+    {
+      "properName": "Sukhurmashu",
+      "hip": 100027,
+      "hr": 7747,
+      "hd": 192876,
+      "iauBayer": "α1 Cap"
+    },
+    {
+      "properName": "Aerostaticus",
+      "hip": 105140,
+      "hr": 8135,
+      "hd": 202627,
+      "iauBayer": "ε Mic"
+    },
+    {
+      "properName": "Tianbang",
+      "hip": 86414,
+      "hr": 6588,
+      "hd": 160762,
+      "iauBayer": "ι Her"
+    },
+    {
+      "properName": "Tianbian",
+      "hip": 91117,
+      "hr": 6973,
+      "hd": 171443,
+      "iauBayer": "α Sct"
+    },
+    {
+      "properName": "Telum",
+      "hip": 98337,
+      "hr": 7635,
+      "hd": 189319,
+      "iauBayer": "γ Sge"
+    },
+    {
+      "properName": "Shakh",
+      "hip": 96837,
+      "hr": 7488,
+      "hd": 185958,
+      "iauBayer": "β Sge"
+    },
+    {
+      "properName": "Zuoqi",
+      "hip": 97365,
+      "hr": 7536,
+      "hd": 187076,
+      "iauBayer": "δ Sge"
+    },
+    {
+      "properName": "Guqi",
+      "hip": 95501,
+      "hr": 7377,
+      "hd": 182640,
+      "iauBayer": "δ Aql"
+    },
+    {
+      "properName": "Arin-majlep",
+      "hip": 93244,
+      "hr": 7176,
+      "hd": 176411,
+      "iauBayer": "ε Aql"
+    },
+    {
+      "properName": "Pagru",
+      "hip": 97804,
+      "hr": 7570,
+      "hd": 187929,
+      "iauBayer": "η Aql"
+    },
+    {
+      "properName": "Hru",
+      "hip": 96665,
+      "hr": 7474,
+      "hd": 185507,
+      "iauBayer": "σ Aql"
+    },
+    {
+      "properName": "Pongaponga",
+      "hip": 91919,
+      "hr": 7051,
+      "hd": 173582,
+      "iauBayer": "ε1 Lyr A"
+    },
+    {
+      "properName": "Niandao",
+      "hip": 92862,
+      "hr": 7157,
+      "hd": 175865,
+      "iauBayer": "13 Lyr"
+    },
+    {
+      "properName": "Kautoki",
+      "hip": 91971,
+      "hr": 7056,
+      "hd": 173648,
+      "iauBayer": "ζ1 Lyr"
+    },
+    {
+      "properName": "Urquchillay",
+      "hip": 91973,
+      "hr": 7057,
+      "hd": 173649,
+      "iauBayer": "ζ2 Lyr"
+    },
+    {
+      "properName": "Jiantai",
+      "hip": 92791,
+      "hr": 7139,
+      "hd": 175588,
+      "iauBayer": "δ2 Lyr"
+    },
+    {
+      "properName": "Ninnisig",
+      "hip": 94713,
+      "hr": 7314,
+      "hd": 180809,
+      "iauBayer": "θ Lyr"
+    },
+    {
+      "properName": "Yaqana",
+      "hip": 80582,
+      "hr": 6115,
+      "hd": 147971,
+      "iauBayer": "ε Nor"
+    },
+    {
+      "properName": "Moth",
+      "hip": 36948,
+      "hr": null,
+      "hd": 61005,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Speedy Mic",
+      "hip": 102626,
+      "hr": null,
+      "hd": 197890,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Red Rectangle",
+      "hip": 30089,
+      "hr": null,
+      "hd": 44179,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Nüchuang",
+      "hip": 84380,
+      "hr": 6418,
+      "hd": 156283,
+      "iauBayer": "π Her"
+    },
+    {
+      "properName": "Tianji",
+      "hip": 81693,
+      "hr": 6212,
+      "hd": 150680,
+      "iauBayer": "ζ Her"
+    },
+    {
+      "properName": "Asuusiha",
+      "hip": 79992,
+      "hr": 6092,
+      "hd": 147394,
+      "iauBayer": "τ Her"
+    },
+    {
+      "properName": "Khepdenreret",
+      "hip": 83207,
+      "hr": 6324,
+      "hd": 153808,
+      "iauBayer": "ϵ Her"
+    },
+    {
+      "properName": "Aurwandilsta",
+      "hip": 78493,
+      "hr": 5971,
+      "hd": 143807,
+      "iauBayer": "ι CrB"
+    },
+    {
+      "properName": "Baltesha",
+      "hip": 76952,
+      "hr": 5849,
+      "hd": 140436,
+      "iauBayer": "γ CrB A"
+    },
+    {
+      "properName": "Matrichakra",
+      "hip": 77512,
+      "hr": 5889,
+      "hd": 141714,
+      "iauBayer": "δ CrB"
+    },
+    {
+      "properName": "Guansuo",
+      "hip": 76127,
+      "hr": 5778,
+      "hd": 138749,
+      "iauBayer": "θ CrB A"
+    },
+    {
+      "properName": "Stephanos",
+      "hip": 77048,
+      "hr": 5855,
+      "hd": 140716,
+      "iauBayer": "π CrB"
+    },
+    {
+      "properName": "Bibing",
+      "hip": 18724,
+      "hr": 1239,
+      "hd": 25204,
+      "iauBayer": "λ Tau"
+    },
+    {
+      "properName": "Lembu",
+      "hip": 22565,
+      "hr": 1547,
+      "hd": 30780,
+      "iauBayer": "97 Tau"
+    },
+    {
+      "properName": "Shakata",
+      "hip": 20877,
+      "hr": 1407,
+      "hd": 28292,
+      "iauBayer": "75 Tau"
+    },
+    {
+      "properName": "Izar",
+      "hip": 72105,
+      "hr": 5505,
+      "hd": 129988,
+      "iauBayer": "ε Boo"
+    },
+    {
+      "properName": "Maenalus",
+      "hip": 72220,
+      "hr": 5511,
+      "hd": 130109,
+      "iauBayer": "109 Virginis"
+    },
+    {
+      "properName": "Alrumh",
+      "hip": 71995,
+      "hr": 5490,
+      "hd": 129712,
+      "iauBayer": "34 Bootis"
+    },
+    {
+      "properName": "Genghe",
+      "hip": 71284,
+      "hr": 5447,
+      "hd": 128167,
+      "iauBayer": "σ Bootis"
+    },
+    {
+      "properName": "Kalasungsang",
+      "hip": 71053,
+      "hr": 5429,
+      "hd": 127665,
+      "iauBayer": "ρ Bootis"
+    },
+    {
+      "properName": "Qigong",
+      "hip": 74666,
+      "hr": 5681,
+      "hd": 135722,
+      "iauBayer": "δ Bootis A"
+    },
+    {
+      "properName": "Tepiamenit",
+      "hip": 67275,
+      "hr": 5185,
+      "hd": 120136,
+      "iauBayer": "τ Bootis"
+    },
+    {
+      "properName": "Pherkad Minor",
+      "hip": 74793,
+      "hr": 5714,
+      "hd": 136726,
+      "iauBayer": "11 UMi"
+    },
+    {
+      "properName": "Ping",
+      "hip": 23685,
+      "hr": 1654,
+      "hd": 32887,
+      "iauBayer": "ε Lep"
+    },
+    {
+      "properName": "Bade",
+      "hip": 24305,
+      "hr": 1702,
+      "hd": 33904,
+      "iauBayer": "μ Lep"
+    },
+    {
+      "properName": "Darlugal",
+      "hip": 27288,
+      "hr": 1998,
+      "hd": 38678,
+      "iauBayer": "ζ Lep"
+    },
+    {
+      "properName": "Udang",
+      "hip": 104139,
+      "hr": 8075,
+      "hd": 200761,
+      "iauBayer": "θ Cap"
+    },
+    {
+      "properName": "Gaja",
+      "hip": 21881,
+      "hr": 1497,
+      "hd": 29763,
+      "iauBayer": "τ Tau"
+    },
+    {
+      "properName": "Naga",
+      "hip": 64962,
+      "hr": 5020,
+      "hd": 115659,
+      "iauBayer": "γ Hya"
+    },
+    {
+      "properName": "Yuyu",
+      "hip": 43103,
+      "hr": 3475,
+      "hd": 74739,
+      "iauBayer": "ι Cnc"
+    },
+    {
+      "properName": "Lumbung",
+      "hip": 61966,
+      "hr": 4823,
+      "hd": 110335,
+      "iauBayer": "39 Cru"
+    },
+    {
+      "properName": "Tonglingxing",
+      "hip": 33694,
+      "hr": 2527,
+      "hd": 49878,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Shangwei",
+      "hip": 29997,
+      "hr": 2209,
+      "hd": 42818,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Shangcheng",
+      "hip": 14862,
+      "hr": 932,
+      "hd": 19275,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Shaowei",
+      "hip": 17959,
+      "hr": 1148,
+      "hd": 23401,
+      "iauBayer": "γ Cam"
+    },
+    {
+      "properName": "Kamelos",
+      "hip": 31940,
+      "hr": 2363,
+      "hd": 45866,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Custos",
+      "hip": 17884,
+      "hr": 1155,
+      "hd": 23475,
+      "iauBayer": "BE Cam"
+    },
+    {
+      "properName": "Huagai",
+      "hip": 11569,
+      "hr": 707,
+      "hd": 15089,
+      "iauBayer": "ι Cas"
+    },
+    {
+      "properName": "Gang",
+      "hip": 9598,
+      "hr": 580,
+      "hd": 12216,
+      "iauBayer": "50 Cas"
+    },
+    {
+      "properName": "Rangifer",
+      "hip": 9763,
+      "hr": 592,
+      "hd": 12339,
+      "iauBayer": "49 Cas"
+    },
+    {
+      "properName": "Tarandus",
+      "hip": 5372,
+      "hr": 285,
+      "hd": 5848,
+      "iauBayer": "2 UMi"
+    },
+    {
+      "properName": "Sarvvis",
+      "hip": 17358,
+      "hr": 1122,
+      "hd": 22928,
+      "iauBayer": "δ Per"
+    },
+    {
+      "properName": "Áldu",
+      "hip": 18532,
+      "hr": 1220,
+      "hd": 24760,
+      "iauBayer": "ϵ Per"
+    },
+    {
+      "properName": "Cexing",
+      "hip": 2599,
+      "hr": 130,
+      "hd": 2905,
+      "iauBayer": "κ Cas"
+    },
+    {
+      "properName": "Tiansi",
+      "hip": 4427,
+      "hr": 264,
+      "hd": 5394,
+      "iauBayer": "γ Cas"
+    },
+    {
+      "properName": "Bagu",
+      "hip": 28358,
+      "hr": 2077,
+      "hd": 40035,
+      "iauBayer": "δ Aur"
+    },
+    {
+      "properName": "Apdu",
+      "hip": 10670,
+      "hr": 664,
+      "hd": 14055,
+      "iauBayer": "γ Tri"
+    },
+    {
+      "properName": "Alaybasan",
+      "hip": 10064,
+      "hr": 622,
+      "hd": 13161,
+      "iauBayer": "β Tri"
+    },
+    {
+      "properName": "Shengong",
+      "hip": 83100,
+      "hr": 6298,
+      "hd": 153072,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Apamvatsa",
+      "hip": 66006,
+      "hr": 5095,
+      "hd": 117675,
+      "iauBayer": "74 Vir"
+    },
+    {
+      "properName": "Blaze Star",
+      "hip": 78322,
+      "hr": 5958,
+      "hd": 143454,
+      "iauBayer": "T CrB"
+    },
+    {
+      "properName": "Shatabhisha",
+      "hip": 112961,
+      "hr": 8698,
+      "hd": 216386,
+      "iauBayer": "λ Aqr"
+    },
+    {
+      "properName": "Junnanmen",
+      "hip": 5434,
+      "hr": 335,
+      "hd": 6811,
+      "iauBayer": "φ And"
+    },
+    {
+      "properName": "Dajiangjunbei",
+      "hip": 8068,
+      "hr": 496,
+      "hd": 10516,
+      "iauBayer": "φ Per"
+    },
+    {
+      "properName": "Hydor",
+      "hip": 301,
+      "hr": 9098,
+      "hd": 225132,
+      "iauBayer": "2 Cet"
+    },
+    {
+      "properName": "Triminus",
+      "hip": 10280,
+      "hr": 642,
+      "hd": 13480,
+      "iauBayer": "6 Tri"
+    },
+    {
+      "properName": "Bodu",
+      "hip": 88267,
+      "hr": 6729,
+      "hd": 164668,
+      "iauBayer": "95 Her"
+    },
+    {
+      "properName": "Deltoton",
+      "hip": 10644,
+      "hr": 660,
+      "hd": 13974,
+      "iauBayer": "δ Tri"
+    },
+    {
+      "properName": "Ramus",
+      "hip": 88886,
+      "hr": 6787,
+      "hd": 166182,
+      "iauBayer": "102 Her"
+    },
+    {
+      "properName": "Tusizuo",
+      "hip": 90139,
+      "hr": 6895,
+      "hd": 169414,
+      "iauBayer": "109 Her"
+    },
+    {
+      "properName": "Paradys",
+      "hip": 72370,
+      "hr": 5470,
+      "hd": 129078,
+      "iauBayer": "α Aps"
+    },
+    {
+      "properName": "Honores",
+      "hip": 114570,
+      "hr": 8830,
+      "hd": 219080,
+      "iauBayer": "7 And"
+    },
+    {
+      "properName": "Alfarasalkamil",
+      "hip": 113726,
+      "hr": 8762,
+      "hd": 217675,
+      "iauBayer": "ο And"
+    },
+    {
+      "properName": "Kaffalmusalsala",
+      "hip": 116805,
+      "hr": 8976,
+      "hd": 222439,
+      "iauBayer": "κ And"
+    },
+    {
+      "properName": "Rasalnaqa",
+      "hip": 116631,
+      "hr": 8965,
+      "hd": 222173,
+      "iauBayer": "ι And"
+    },
+    {
+      "properName": "Udkadua",
+      "hip": 116584,
+      "hr": 8961,
+      "hd": 222107,
+      "iauBayer": "λ And"
+    },
+    {
+      "properName": "Kui",
+      "hip": 4463,
+      "hr": 271,
+      "hd": 5516,
+      "iauBayer": "η And"
+    },
+    {
+      "properName": "Heng",
+      "hip": 67464,
+      "hr": 5190,
+      "hd": 120307,
+      "iauBayer": "ν Cen"
+    },
+    {
+      "properName": "Shimu",
+      "hip": 3693,
+      "hr": 215,
+      "hd": 4502,
+      "iauBayer": "ζ And"
+    },
+    {
+      "properName": "Kulou",
+      "hip": 65109,
+      "hr": 5028,
+      "hd": 115892,
+      "iauBayer": "ι Cen"
+    },
+    {
+      "properName": "Quadrans",
+      "hip": 73695,
+      "hr": 5618,
+      "hd": 133640,
+      "iauBayer": "44 Boo A"
+    },
+    {
+      "properName": "Hoerikwaggo",
+      "hip": 29271,
+      "hr": 2261,
+      "hd": 43834,
+      "iauBayer": "α Men"
+    },
+    {
+      "properName": "Safina",
+      "hip": 114341,
+      "hr": 8812,
+      "hd": 218594,
+      "iauBayer": "88 Aqr"
+    },
+    {
+      "properName": "Xami",
+      "hip": 71908,
+      "hr": 5463,
+      "hd": 128898,
+      "iauBayer": "α Cir"
+    },
+    {
+      "properName": "Zhou",
+      "hip": 77233,
+      "hr": 5867,
+      "hd": 141003,
+      "iauBayer": "β Ser"
+    },
+    {
+      "properName": "Solitaire",
+      "hip": 72571,
+      "hr": 5526,
+      "hd": 130694,
+      "iauBayer": "E Hya"
+    },
+    {
+      "properName": "Garnet Star",
+      "hip": 107259,
+      "hr": 8316,
+      "hd": 206936,
+      "iauBayer": "µ Cep"
+    },
+    {
+      "properName": "Lang-Exster",
+      "hip": 110130,
+      "hr": 8502,
+      "hd": 211416,
+      "iauBayer": "α Tuc"
+    },
+    {
+      "properName": "Rhombus",
+      "hip": 19780,
+      "hr": 1336,
+      "hd": 27256,
+      "iauBayer": "α Ret"
+    },
+    {
+      "properName": "Tengshe",
+      "hip": 113288,
+      "hr": 8726,
+      "hd": 216946,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Uridim",
+      "hip": 71860,
+      "hr": 5469,
+      "hd": 129056,
+      "iauBayer": "α Lup"
+    },
+    {
+      "properName": "Stellio",
+      "hip": 111169,
+      "hr": 8585,
+      "hd": 213558,
+      "iauBayer": "α Lac"
+    },
+    {
+      "properName": "Pipit",
+      "hip": 31685,
+      "hr": 2451,
+      "hd": 47670,
+      "iauBayer": "ν Pup"
+    },
+    {
+      "properName": "Bake-eo",
+      "hip": 87108,
+      "hr": 6629,
+      "hd": 161868,
+      "iauBayer": "γ Oph"
+    },
+    {
+      "properName": "Leepwal",
+      "hip": 68002,
+      "hr": 5231,
+      "hd": 121263,
+      "iauBayer": "ζ Cen"
+    },
+    {
+      "properName": "Shaomin",
+      "hip": 51624,
+      "hr": 4133,
+      "hd": 91316,
+      "iauBayer": "ρ Leo"
+    },
+    {
+      "properName": "Yunü",
+      "hip": 49637,
+      "hr": 3980,
+      "hd": 87837,
+      "iauBayer": "31 Leo"
+    },
+    {
+      "properName": "Antinous",
+      "hip": 99473,
+      "hr": 7710,
+      "hd": 191692,
+      "iauBayer": "θ Aql"
+    },
+    {
+      "properName": "Phyllon Kissinou",
+      "hip": 61394,
+      "hr": 4789,
+      "hd": 109485,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Tianfu",
+      "hip": 98823,
+      "hr": 7669,
+      "hd": 190327,
+      "iauBayer": "τ Aql"
+    },
+    {
+      "properName": "Rana",
+      "hip": 17378,
+      "hr": 1136,
+      "hd": 23249,
+      "iauBayer": "δ Eri"
+    },
+    {
+      "properName": "Alasia",
+      "hip": 90004,
+      "hr": null,
+      "hd": 168746,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Amadioha",
+      "hip": 29550,
+      "hr": null,
+      "hd": 43197,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Aniara",
+      "hip": 57820,
+      "hr": null,
+      "hd": 102956,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Arcalís",
+      "hip": 72845,
+      "hr": null,
+      "hd": 131496,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Axólotl",
+      "hip": 118319,
+      "hr": null,
+      "hd": 224693,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Ayeyarwady",
+      "hip": 13993,
+      "hr": null,
+      "hd": 18742,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Baekdu",
+      "hip": 73136,
+      "hr": null,
+      "hd": 133086,
+      "iauBayer": "8 UMi"
+    },
+    {
+      "properName": "Belel",
+      "hip": 95124,
+      "hr": null,
+      "hd": 181342,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Bélénos",
+      "hip": 6643,
+      "hr": null,
+      "hd": 8574,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Bibhā",
+      "hip": 48711,
+      "hr": null,
+      "hd": 86081,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Bosona",
+      "hip": 107251,
+      "hr": null,
+      "hd": 206610,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Bubup",
+      "hip": 26380,
+      "hr": null,
+      "hd": 38283,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Buna",
+      "hip": 12191,
+      "hr": null,
+      "hd": 16175,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Ceibo",
+      "hip": 37284,
+      "hr": null,
+      "hd": 63454,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Chechia",
+      "hip": 99894,
+      "hr": null,
+      "hd": 192699,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Citadelle",
+      "hip": 1547,
+      "hr": null,
+      "hd": 1502,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Citalá",
+      "hip": 33719,
+      "hr": 2622,
+      "hd": 52265,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Cocibolca",
+      "hip": 3479,
+      "hr": null,
+      "hd": 4208,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Dingolay",
+      "hip": 54158,
+      "hr": null,
+      "hd": 96063,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Dofida",
+      "hip": 66047,
+      "hr": null,
+      "hd": 117618,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Emiw",
+      "hip": 5529,
+      "hr": null,
+      "hd": 7199,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Felixvarela",
+      "hip": 2247,
+      "hr": null,
+      "hd": null,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Flegetonte",
+      "hip": 57370,
+      "hr": null,
+      "hd": 102195,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Formosa",
+      "hip": 56508,
+      "hr": 4459,
+      "hd": 100655,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Funi",
+      "hip": 61177,
+      "hr": null,
+      "hd": 109246,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Gakyid",
+      "hip": 42446,
+      "hr": null,
+      "hd": 73534,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Gumala",
+      "hip": 94645,
+      "hr": 7291,
+      "hd": 179949,
+      "iauBayer": "V5652 Sgr"
+    },
+    {
+      "properName": "Hoggar",
+      "hip": 21109,
+      "hr": null,
+      "hd": 28678,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Hunahpú",
+      "hip": 55174,
+      "hr": null,
+      "hd": 98219,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Hunor",
+      "hip": 80076,
+      "hr": null,
+      "hd": 147506,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Illyrian",
+      "hip": 47087,
+      "hr": null,
+      "hd": 82886,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Inquill",
+      "hip": 84787,
+      "hr": null,
+      "hd": 156411,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Intan",
+      "hip": 15578,
+      "hr": null,
+      "hd": 20868,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Itonda",
+      "hip": 108375,
+      "hr": null,
+      "hd": 208487,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Jishui",
+      "hip": 37265,
+      "hr": 2930,
+      "hd": 61110,
+      "iauBayer": "ο Gem"
+    },
+    {
+      "properName": "Kalausi",
+      "hip": 47202,
+      "hr": null,
+      "hd": 83443,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Kamuy",
+      "hip": 79219,
+      "hr": null,
+      "hd": 145457,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Karaka",
+      "hip": 76351,
+      "hr": null,
+      "hd": 137388,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Kaveh",
+      "hip": 92895,
+      "hr": null,
+      "hd": 175541,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Koeia",
+      "hip": 12961,
+      "hr": null,
+      "hd": null,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Liesma",
+      "hip": 66192,
+      "hr": null,
+      "hd": 118203,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Lionrock",
+      "hip": 110813,
+      "hr": null,
+      "hd": 212771,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Lucilinburhuc",
+      "hip": 30860,
+      "hr": null,
+      "hd": 45350,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Lusitânia",
+      "hip": 30905,
+      "hr": null,
+      "hd": 45652,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Macondo",
+      "hip": 52521,
+      "hr": null,
+      "hd": 93083,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Mago",
+      "hip": 24003,
+      "hr": 1636,
+      "hd": 32518,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Mahsati",
+      "hip": 82651,
+      "hr": null,
+      "hd": 152581,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Mönch",
+      "hip": 72339,
+      "hr": null,
+      "hd": 130322,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Mouhoun",
+      "hip": 22491,
+      "hr": null,
+      "hd": 30856,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Násti",
+      "hip": 40687,
+      "hr": null,
+      "hd": 68988,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Natasha",
+      "hip": 48235,
+      "hr": null,
+      "hd": 85390,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Nenque",
+      "hip": 5054,
+      "hr": null,
+      "hd": 6434,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Nervia",
+      "hip": 32916,
+      "hr": null,
+      "hd": 49674,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Nikawiy",
+      "hip": 74961,
+      "hr": null,
+      "hd": 136418,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Nosaxa",
+      "hip": 31895,
+      "hr": null,
+      "hd": 48265,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Nushagak",
+      "hip": 13192,
+      "hr": null,
+      "hd": 17156,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Phoenicia",
+      "hip": 99711,
+      "hr": null,
+      "hd": 192263,
+      "iauBayer": "V1703 Aql"
+    },
+    {
+      "properName": "Pincoya",
+      "hip": 88414,
+      "hr": null,
+      "hd": 164604,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Poerava",
+      "hip": 116084,
+      "hr": null,
+      "hd": 221287,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Rapeto",
+      "hip": 83547,
+      "hr": null,
+      "hd": 153950,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Rosalíadecastro",
+      "hip": 81022,
+      "hr": null,
+      "hd": 149143,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Sagarmatha",
+      "hip": 56572,
+      "hr": null,
+      "hd": 100777,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Sāmaya",
+      "hip": 106824,
+      "hr": null,
+      "hd": 205739,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Shama",
+      "hip": 55664,
+      "hr": null,
+      "hd": 99109,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Sharjah",
+      "hip": 79431,
+      "hr": null,
+      "hd": null,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Sika",
+      "hip": 95262,
+      "hr": null,
+      "hd": 181720,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Solaris",
+      "hip": 104780,
+      "hr": null,
+      "hd": null,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Stribor",
+      "hip": 43674,
+      "hr": null,
+      "hd": 75898,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Tapecue",
+      "hip": 38041,
+      "hr": null,
+      "hd": 63765,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Timir",
+      "hip": 80687,
+      "hr": null,
+      "hd": 148427,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Tupã",
+      "hip": 60644,
+      "hr": null,
+      "hd": 108147,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Tupi",
+      "hip": 17096,
+      "hr": null,
+      "hd": 23079,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Uklun",
+      "hip": 57291,
+      "hr": null,
+      "hd": 102117,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Uruk",
+      "hip": 96078,
+      "hr": null,
+      "hd": 231701,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Xihe",
+      "hip": 91852,
+      "hr": 7043,
+      "hd": 173416,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Gudja",
+      "hip": 77450,
+      "hr": 5879,
+      "hd": 141477,
+      "iauBayer": "κ Ser"
+    },
+    {
+      "properName": "Guniibuu",
+      "hip": 84405,
+      "hr": 6401,
+      "hd": 155885,
+      "iauBayer": "36 Oph"
+    },
+    {
+      "properName": "Imai",
+      "hip": 59747,
+      "hr": 4656,
+      "hd": 106490,
+      "iauBayer": "δ Cru"
+    },
+    {
+      "properName": "La Superba",
+      "hip": 62223,
+      "hr": 4846,
+      "hd": 110914,
+      "iauBayer": "Y CVn"
+    },
+    {
+      "properName": "Paikauhale",
+      "hip": 81266,
+      "hr": 6165,
+      "hd": 149438,
+      "iauBayer": "τ Sco"
+    },
+    {
+      "properName": "Toliman",
+      "hip": 71681,
+      "hr": 5460,
+      "hd": 128621,
+      "iauBayer": "α Cen"
+    },
+    {
+      "properName": "Alpherg",
+      "hip": 7097,
+      "hr": 437,
+      "hd": 9270,
+      "iauBayer": "η Psc"
+    },
+    {
+      "properName": "Alruba",
+      "hip": 86782,
+      "hr": 6618,
+      "hd": 161693,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Ashlesha",
+      "hip": 43109,
+      "hr": 3482,
+      "hd": 74874,
+      "iauBayer": "ε Hya"
+    },
+    {
+      "properName": "Azmidi",
+      "hip": 38170,
+      "hr": 3045,
+      "hd": 63700,
+      "iauBayer": "ξ Pup"
+    },
+    {
+      "properName": "Bunda",
+      "hip": 106786,
+      "hr": 8264,
+      "hd": 205767,
+      "iauBayer": "ξ Aqr"
+    },
+    {
+      "properName": "Elgafar",
+      "hip": 70755,
+      "hr": 5409,
+      "hd": 126868,
+      "iauBayer": "ϕ Vir"
+    },
+    {
+      "properName": "Elkurud",
+      "hip": 29034,
+      "hr": 2177,
+      "hd": 42167,
+      "iauBayer": "θ Col"
+    },
+    {
+      "properName": "Fawaris",
+      "hip": 97165,
+      "hr": 7528,
+      "hd": 186882,
+      "iauBayer": "δ Cyg"
+    },
+    {
+      "properName": "Felis",
+      "hip": 48615,
+      "hr": 3923,
+      "hd": 85951,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Fumalsamakah",
+      "hip": 113889,
+      "hr": 8773,
+      "hd": 217891,
+      "iauBayer": "β Psc"
+    },
+    {
+      "properName": "Heze",
+      "hip": 66249,
+      "hr": 5107,
+      "hd": 118098,
+      "iauBayer": "ζ Vir"
+    },
+    {
+      "properName": "Kraz",
+      "hip": 61359,
+      "hr": 4786,
+      "hd": 109379,
+      "iauBayer": "β Crv"
+    },
+    {
+      "properName": "Nahn",
+      "hip": 44946,
+      "hr": 3627,
+      "hd": 78515,
+      "iauBayer": "ξ Cnc"
+    },
+    {
+      "properName": "Okab",
+      "hip": 93747,
+      "hr": 7235,
+      "hd": 177724,
+      "iauBayer": "ζ Aql"
+    },
+    {
+      "properName": "Piautos",
+      "hip": 40881,
+      "hr": 3268,
+      "hd": 70011,
+      "iauBayer": "λ Cnc"
+    },
+    {
+      "properName": "Tarf",
+      "hip": 40526,
+      "hr": 3249,
+      "hd": 69267,
+      "iauBayer": "β Cnc"
+    },
+    {
+      "properName": "Ukdah",
+      "hip": 47431,
+      "hr": 3845,
+      "hd": 83618,
+      "iauBayer": "ι Hya"
+    },
+    {
+      "properName": "Ginan",
+      "hip": 60260,
+      "hr": 4700,
+      "hd": 107446,
+      "iauBayer": "ε Cru"
+    },
+    {
+      "properName": "Larawag",
+      "hip": 82396,
+      "hr": 6241,
+      "hd": 151680,
+      "iauBayer": "ε Sco"
+    },
+    {
+      "properName": "Wurren",
+      "hip": 5348,
+      "hr": 338,
+      "hd": 6882,
+      "iauBayer": "ζ Phe"
+    },
+    {
+      "properName": "Achird",
+      "hip": 3821,
+      "hr": 219,
+      "hd": 4614,
+      "iauBayer": "η Cas"
+    },
+    {
+      "properName": "Ainalrami",
+      "hip": 92761,
+      "hr": 7116,
+      "hd": 174974,
+      "iauBayer": "ν1 Sgr"
+    },
+    {
+      "properName": "Aladfar",
+      "hip": 94481,
+      "hr": 7298,
+      "hd": 180163,
+      "iauBayer": "η Lyr"
+    },
+    {
+      "properName": "Albaldah",
+      "hip": 94141,
+      "hr": 7264,
+      "hd": 178524,
+      "iauBayer": "π Sgr"
+    },
+    {
+      "properName": "Aldhanab",
+      "hip": 108085,
+      "hr": 8353,
+      "hd": 207971,
+      "iauBayer": "γ Gru"
+    },
+    {
+      "properName": "Aldhibah",
+      "hip": 83895,
+      "hr": 6396,
+      "hd": 155763,
+      "iauBayer": "ζ Dra"
+    },
+    {
+      "properName": "Aldulfin",
+      "hip": 101421,
+      "hr": 7852,
+      "hd": 195810,
+      "iauBayer": "ε Del"
+    },
+    {
+      "properName": "Alkaphrah",
+      "hip": 44471,
+      "hr": 3594,
+      "hd": 77327,
+      "iauBayer": "κ UMa"
+    },
+    {
+      "properName": "Alkarab",
+      "hip": 115623,
+      "hr": 8905,
+      "hd": 220657,
+      "iauBayer": "υ Peg"
+    },
+    {
+      "properName": "Alsephina",
+      "hip": 42913,
+      "hr": 3485,
+      "hd": 74956,
+      "iauBayer": "δ Vel"
+    },
+    {
+      "properName": "Athebyne",
+      "hip": 80331,
+      "hr": 6132,
+      "hd": 148387,
+      "iauBayer": "η Dra"
+    },
+    {
+      "properName": "Brachium",
+      "hip": 73714,
+      "hr": 5603,
+      "hd": 133216,
+      "iauBayer": "σ Lib"
+    },
+    {
+      "properName": "Castula",
+      "hip": 4422,
+      "hr": 265,
+      "hd": 5395,
+      "iauBayer": "υ2 Cas"
+    },
+    {
+      "properName": "Chamukuy",
+      "hip": 20894,
+      "hr": 1412,
+      "hd": 28319,
+      "iauBayer": "θ2 Tau"
+    },
+    {
+      "properName": "Dalim",
+      "hip": 14879,
+      "hr": 963,
+      "hd": 20010,
+      "iauBayer": "α For"
+    },
+    {
+      "properName": "Dziban",
+      "hip": 86614,
+      "hr": 6636,
+      "hd": 162003,
+      "iauBayer": "ψ1 Dra"
+    },
+    {
+      "properName": "Hatysa",
+      "hip": 26241,
+      "hr": 1899,
+      "hd": 37043,
+      "iauBayer": "ι Ori"
+    },
+    {
+      "properName": "Iklil",
+      "hip": 78104,
+      "hr": 5928,
+      "hd": 142669,
+      "iauBayer": "ρ Sco"
+    },
+    {
+      "properName": "Khambalia",
+      "hip": 69974,
+      "hr": 5359,
+      "hd": 125337,
+      "iauBayer": "λ Vir"
+    },
+    {
+      "properName": "Lilii Borea",
+      "hip": 13061,
+      "hr": 824,
+      "hd": 17361,
+      "iauBayer": "39 Ari"
+    },
+    {
+      "properName": "Markeb",
+      "hip": 45941,
+      "hr": 3734,
+      "hd": 81188,
+      "iauBayer": "κ Vel"
+    },
+    {
+      "properName": "Meleph",
+      "hip": 42556,
+      "hr": 3429,
+      "hd": 73731,
+      "iauBayer": "ε Cnc"
+    },
+    {
+      "properName": "Meridiana",
+      "hip": 94114,
+      "hr": 7254,
+      "hd": 178253,
+      "iauBayer": "α CrA"
+    },
+    {
+      "properName": "Minchir",
+      "hip": 42402,
+      "hr": 3418,
+      "hd": 73471,
+      "iauBayer": "σ Hya"
+    },
+    {
+      "properName": "Miram",
+      "hip": 13268,
+      "hr": 834,
+      "hd": 17506,
+      "iauBayer": "η Per"
+    },
+    {
+      "properName": "Misam",
+      "hip": 14668,
+      "hr": 941,
+      "hd": 19476,
+      "iauBayer": "κ Per"
+    },
+    {
+      "properName": "Nembus",
+      "hip": 7607,
+      "hr": 464,
+      "hd": 9927,
+      "iauBayer": "51 And"
+    },
+    {
+      "properName": "Nganurganity",
+      "hip": 33856,
+      "hr": 2646,
+      "hd": 52877,
+      "iauBayer": "σ CMa"
+    },
+    {
+      "properName": "Pipirima",
+      "hip": 82545,
+      "hr": 6252,
+      "hd": 151985,
+      "iauBayer": "μ2 Sco"
+    },
+    {
+      "properName": "Polaris Australis",
+      "hip": 104382,
+      "hr": 7228,
+      "hd": 177482,
+      "iauBayer": "σ Oct"
+    },
+    {
+      "properName": "Polis",
+      "hip": 89341,
+      "hr": 6812,
+      "hd": 166937,
+      "iauBayer": "μ Sgr"
+    },
+    {
+      "properName": "Prima Hyadum",
+      "hip": 20205,
+      "hr": 1346,
+      "hd": 27371,
+      "iauBayer": "γ Tau"
+    },
+    {
+      "properName": "Salm",
+      "hip": 115250,
+      "hr": 8880,
+      "hd": 220061,
+      "iauBayer": "τ Peg"
+    },
+    {
+      "properName": "Secunda Hyadum",
+      "hip": 20455,
+      "hr": 1373,
+      "hd": 27697,
+      "iauBayer": "δ1 Tau"
+    },
+    {
+      "properName": "Segin",
+      "hip": 8886,
+      "hr": 542,
+      "hd": 11415,
+      "iauBayer": "ε Cas"
+    },
+    {
+      "properName": "Tabit",
+      "hip": 22449,
+      "hr": 1543,
+      "hd": 30652,
+      "iauBayer": "π3 Ori"
+    },
+    {
+      "properName": "Terebellum",
+      "hip": 98066,
+      "hr": 7597,
+      "hd": 188376,
+      "iauBayer": "ω Sgr"
+    },
+    {
+      "properName": "Tiaki",
+      "hip": 112122,
+      "hr": 8636,
+      "hd": 214952,
+      "iauBayer": "β Gru"
+    },
+    {
+      "properName": "Torcular",
+      "hip": 8198,
+      "hr": 510,
+      "hd": 10761,
+      "iauBayer": "ο Psc"
+    },
+    {
+      "properName": "Xamidimura",
+      "hip": 82514,
+      "hr": 6247,
+      "hd": 151890,
+      "iauBayer": "μ1 Sco"
+    },
+    {
+      "properName": "Zubenelhakrabi",
+      "hip": 76333,
+      "hr": 5787,
+      "hd": 138905,
+      "iauBayer": "γ Lib"
+    },
+    {
+      "properName": "Alsafi",
+      "hip": 96100,
+      "hr": 7462,
+      "hd": 185144,
+      "iauBayer": "σ Dra"
+    },
+    {
+      "properName": "Alsciaukat",
+      "hip": 41075,
+      "hr": 3275,
+      "hd": 70272,
+      "iauBayer": "31 Lyn"
+    },
+    {
+      "properName": "Alshat",
+      "hip": 100310,
+      "hr": 7773,
+      "hd": 193432,
+      "iauBayer": "ν Cap"
+    },
+    {
+      "properName": "Alzirr",
+      "hip": 32362,
+      "hr": 2484,
+      "hd": 48737,
+      "iauBayer": "ξ Gem"
+    },
+    {
+      "properName": "Angetenar",
+      "hip": 13288,
+      "hr": 850,
+      "hd": 17824,
+      "iauBayer": "τ2 Eri"
+    },
+    {
+      "properName": "Anser",
+      "hip": 95771,
+      "hr": 7405,
+      "hd": 183439,
+      "iauBayer": "α Vul"
+    },
+    {
+      "properName": "Beemim",
+      "hip": 20535,
+      "hr": 1393,
+      "hd": 28028,
+      "iauBayer": "υ3 Eri"
+    },
+    {
+      "properName": "Bharani",
+      "hip": 13209,
+      "hr": 838,
+      "hd": 17573,
+      "iauBayer": "41  Ari"
+    },
+    {
+      "properName": "Fang",
+      "hip": 78265,
+      "hr": 5944,
+      "hd": 143018,
+      "iauBayer": "π Sco"
+    },
+    {
+      "properName": "Fulu",
+      "hip": 2920,
+      "hr": 153,
+      "hd": 3360,
+      "iauBayer": "ζ Cas"
+    },
+    {
+      "properName": "Fuyue",
+      "hip": 87261,
+      "hr": 6630,
+      "hd": 161892,
+      "iauBayer": "G Sco"
+    },
+    {
+      "properName": "Haedus",
+      "hip": 23767,
+      "hr": 1641,
+      "hd": 32630,
+      "iauBayer": "η Aur"
+    },
+    {
+      "properName": "Hassaleh",
+      "hip": 23015,
+      "hr": 1577,
+      "hd": 31398,
+      "iauBayer": "ι Aur"
+    },
+    {
+      "properName": "Jabbah",
+      "hip": 79374,
+      "hr": 6027,
+      "hd": 145502,
+      "iauBayer": "ν Sco"
+    },
+    {
+      "properName": "Kang",
+      "hip": 69427,
+      "hr": 5315,
+      "hd": 124294,
+      "iauBayer": "κ Vir"
+    },
+    {
+      "properName": "Mahasim",
+      "hip": 28380,
+      "hr": 2095,
+      "hd": 40312,
+      "iauBayer": "θ Aur"
+    },
+    {
+      "properName": "Markab",
+      "hip": 113963,
+      "hr": 8781,
+      "hd": 218045,
+      "iauBayer": "α Peg"
+    },
+    {
+      "properName": "Minelauva",
+      "hip": 63090,
+      "hr": 4910,
+      "hd": 112300,
+      "iauBayer": "δ Vir"
+    },
+    {
+      "properName": "Praecipua",
+      "hip": 53229,
+      "hr": 4247,
+      "hd": 94264,
+      "iauBayer": "46 LMi"
+    },
+    {
+      "properName": "Revati",
+      "hip": 5737,
+      "hr": 361,
+      "hd": 7344,
+      "iauBayer": "ζ Psc"
+    },
+    {
+      "properName": "Saclateni",
+      "hip": 23453,
+      "hr": 1612,
+      "hd": 32068,
+      "iauBayer": "ζ Aur"
+    },
+    {
+      "properName": "Sceptrum",
+      "hip": 21594,
+      "hr": 1481,
+      "hd": 29503,
+      "iauBayer": "53 Eri"
+    },
+    {
+      "properName": "Taiyangshou",
+      "hip": 57399,
+      "hr": 4518,
+      "hd": 102224,
+      "iauBayer": "χ UMa"
+    },
+    {
+      "properName": "Taiyi",
+      "hip": 63076,
+      "hr": 4916,
+      "hd": 112429,
+      "iauBayer": "8 Dra"
+    },
+    {
+      "properName": "Tianguan",
+      "hip": 26451,
+      "hr": 1910,
+      "hd": 37202,
+      "iauBayer": "ζ Tau"
+    },
+    {
+      "properName": "Tianyi",
+      "hip": 62423,
+      "hr": 4863,
+      "hd": 111335,
+      "iauBayer": "7 Dra"
+    },
+    {
+      "properName": "Xuange",
+      "hip": 69732,
+      "hr": 5351,
+      "hd": 125162,
+      "iauBayer": "λ Boo"
+    },
+    {
+      "properName": "Zhang",
+      "hip": 48356,
+      "hr": 3903,
+      "hd": 85444,
+      "iauBayer": "υ1 Hya"
+    },
+    {
+      "properName": "Almaaz",
+      "hip": 23416,
+      "hr": 1605,
+      "hd": 31964,
+      "iauBayer": "ε Aur"
+    },
+    {
+      "properName": "Alniyat",
+      "hip": 80112,
+      "hr": 6084,
+      "hd": 147165,
+      "iauBayer": "σ Sco"
+    },
+    {
+      "properName": "Alterf",
+      "hip": 46750,
+      "hr": 3773,
+      "hd": 82308,
+      "iauBayer": "λ Leo"
+    },
+    {
+      "properName": "Cujam",
+      "hip": 80463,
+      "hr": 6117,
+      "hd": 148112,
+      "iauBayer": "ω Her"
+    },
+    {
+      "properName": "Deneb Algedi",
+      "hip": 107556,
+      "hr": 8322,
+      "hd": 207098,
+      "iauBayer": "δ Cap"
+    },
+    {
+      "properName": "Diadem",
+      "hip": 64241,
+      "hr": 4968,
+      "hd": 114378,
+      "iauBayer": "α Com"
+    },
+    {
+      "properName": "Giausar",
+      "hip": 56211,
+      "hr": 4434,
+      "hd": 100029,
+      "iauBayer": "λ Dra"
+    },
+    {
+      "properName": "Kaffaljidhma",
+      "hip": 12706,
+      "hr": 804,
+      "hd": 16970,
+      "iauBayer": "γ Cet"
+    },
+    {
+      "properName": "Marsic",
+      "hip": 79043,
+      "hr": 6008,
+      "hd": 145001,
+      "iauBayer": "κ Her"
+    },
+    {
+      "properName": "Tejat",
+      "hip": 30343,
+      "hr": 2286,
+      "hd": 44478,
+      "iauBayer": "μ Gem"
+    },
+    {
+      "properName": "Theemin",
+      "hip": 21393,
+      "hr": 1464,
+      "hd": 29291,
+      "iauBayer": "υ2 Eri"
+    },
+    {
+      "properName": "Asellus Australis",
+      "hip": 42911,
+      "hr": 3461,
+      "hd": 74442,
+      "iauBayer": "δ Cnc"
+    },
+    {
+      "properName": "Asellus Borealis",
+      "hip": 42806,
+      "hr": 3449,
+      "hd": 74198,
+      "iauBayer": "γ Cnc"
+    },
+    {
+      "properName": "Gienah",
+      "hip": 59803,
+      "hr": 4662,
+      "hd": 106625,
+      "iauBayer": "γ Crv"
+    },
+    {
+      "properName": "Rigil Kentaurus",
+      "hip": 71683,
+      "hr": 5459,
+      "hd": 128620,
+      "iauBayer": "α Cen"
+    },
+    {
+      "properName": "Yed Prior",
+      "hip": 79593,
+      "hr": 6056,
+      "hd": 146051,
+      "iauBayer": "δ Oph"
+    },
+    {
+      "properName": "Arkab Posterior",
+      "hip": 95294,
+      "hr": 7343,
+      "hd": 181623,
+      "iauBayer": "β2 Sgr"
+    },
+    {
+      "properName": "Arkab Prior",
+      "hip": 95241,
+      "hr": 7337,
+      "hd": 181454,
+      "iauBayer": "β1 Sgr"
+    },
+    {
+      "properName": "Yed Posterior",
+      "hip": 79882,
+      "hr": 6075,
+      "hd": 146791,
+      "iauBayer": "ε Oph"
+    },
+    {
+      "properName": "Albali",
+      "hip": 102618,
+      "hr": 7950,
+      "hd": 198001,
+      "iauBayer": "ε Aqr"
+    },
+    {
+      "properName": "Alchiba",
+      "hip": 59199,
+      "hr": 4623,
+      "hd": 105452,
+      "iauBayer": "α Crv"
+    },
+    {
+      "properName": "Alkes",
+      "hip": 53740,
+      "hr": 4287,
+      "hd": 95272,
+      "iauBayer": "α Crt"
+    },
+    {
+      "properName": "Ancha",
+      "hip": 110003,
+      "hr": 8499,
+      "hd": 211391,
+      "iauBayer": "θ Aqr"
+    },
+    {
+      "properName": "Ascella",
+      "hip": 93506,
+      "hr": 7194,
+      "hd": 176687,
+      "iauBayer": "ζ Sgr"
+    },
+    {
+      "properName": "Atik",
+      "hip": 17448,
+      "hr": 1131,
+      "hd": 23180,
+      "iauBayer": "ο Per"
+    },
+    {
+      "properName": "Azelfafage",
+      "hip": 107136,
+      "hr": 8301,
+      "hd": 206672,
+      "iauBayer": "π1 Cyg"
+    },
+    {
+      "properName": "Azha",
+      "hip": 13701,
+      "hr": 874,
+      "hd": 18322,
+      "iauBayer": "η Eri"
+    },
+    {
+      "properName": "Baten Kaitos",
+      "hip": 8645,
+      "hr": 539,
+      "hd": 11353,
+      "iauBayer": "ζ Cet"
+    },
+    {
+      "properName": "Beid",
+      "hip": 19587,
+      "hr": 1298,
+      "hd": 26574,
+      "iauBayer": "ο1 Eri"
+    },
+    {
+      "properName": "Botein",
+      "hip": 14838,
+      "hr": 951,
+      "hd": 19787,
+      "iauBayer": "δ Ari"
+    },
+    {
+      "properName": "Grumium",
+      "hip": 87585,
+      "hr": 6688,
+      "hd": 163588,
+      "iauBayer": "ξ Dra"
+    },
+    {
+      "properName": "Keid",
+      "hip": 19849,
+      "hr": 1325,
+      "hd": 26965,
+      "iauBayer": "ο2 Eri"
+    },
+    {
+      "properName": "Kurhah",
+      "hip": 108917,
+      "hr": 8417,
+      "hd": 209790,
+      "iauBayer": "ξ Cep"
+    },
+    {
+      "properName": "Maasym",
+      "hip": 85693,
+      "hr": 6526,
+      "hd": 158899,
+      "iauBayer": "λ Her"
+    },
+    {
+      "properName": "Marfik",
+      "hip": 80883,
+      "hr": 6149,
+      "hd": 148857,
+      "iauBayer": "λ Oph"
+    },
+    {
+      "properName": "Mekbuda",
+      "hip": 34088,
+      "hr": 2650,
+      "hd": 52973,
+      "iauBayer": "ζ Gem"
+    },
+    {
+      "properName": "Menkib",
+      "hip": 18614,
+      "hr": 1228,
+      "hd": 24912,
+      "iauBayer": "ξ Per"
+    },
+    {
+      "properName": "Merga",
+      "hip": 72487,
+      "hr": 5533,
+      "hd": 130945,
+      "iauBayer": "38 Boo"
+    },
+    {
+      "properName": "Muphrid",
+      "hip": 67927,
+      "hr": 5235,
+      "hd": 121370,
+      "iauBayer": "η Boo"
+    },
+    {
+      "properName": "Nusakan",
+      "hip": 75695,
+      "hr": 5747,
+      "hd": 137909,
+      "iauBayer": "β CrB"
+    },
+    {
+      "properName": "Rasalas",
+      "hip": 48455,
+      "hr": 3905,
+      "hd": 85503,
+      "iauBayer": "μ Leo"
+    },
+    {
+      "properName": "Rotanev",
+      "hip": 101769,
+      "hr": 7882,
+      "hd": 196524,
+      "iauBayer": "β Del"
+    },
+    {
+      "properName": "Sarin",
+      "hip": 84379,
+      "hr": 6410,
+      "hd": 156164,
+      "iauBayer": "δ Her"
+    },
+    {
+      "properName": "Sham",
+      "hip": 96757,
+      "hr": 7479,
+      "hd": 185758,
+      "iauBayer": "α Sge"
+    },
+    {
+      "properName": "Situla",
+      "hip": 111710,
+      "hr": 8610,
+      "hd": 214376,
+      "iauBayer": "κ Aqr"
+    },
+    {
+      "properName": "Sualocin",
+      "hip": 101958,
+      "hr": 7906,
+      "hd": 196867,
+      "iauBayer": "α Del"
+    },
+    {
+      "properName": "Subra",
+      "hip": 47508,
+      "hr": 3852,
+      "hd": 83808,
+      "iauBayer": "ο Leo"
+    },
+    {
+      "properName": "Syrma",
+      "hip": 69701,
+      "hr": 5338,
+      "hd": 124850,
+      "iauBayer": "ι Vir"
+    },
+    {
+      "properName": "Tureis",
+      "hip": 39757,
+      "hr": 3185,
+      "hd": 67523,
+      "iauBayer": "ρ Pup"
+    },
+    {
+      "properName": "Zaniah",
+      "hip": 60129,
+      "hr": 4689,
+      "hd": 107259,
+      "iauBayer": "η Vir"
+    },
+    {
+      "properName": "Zibal",
+      "hip": 15197,
+      "hr": 984,
+      "hd": 20320,
+      "iauBayer": "ζ Eri"
+    },
+    {
+      "properName": "Acrab",
+      "hip": 78820,
+      "hr": 5984,
+      "hd": 144217,
+      "iauBayer": "β1 Sco"
+    },
+    {
+      "properName": "Adhara",
+      "hip": 33579,
+      "hr": 2618,
+      "hd": 52089,
+      "iauBayer": "ε CMa"
+    },
+    {
+      "properName": "Adhil",
+      "hip": 6411,
+      "hr": 390,
+      "hd": 8207,
+      "iauBayer": "ξ And"
+    },
+    {
+      "properName": "Alfirk",
+      "hip": 106032,
+      "hr": 8238,
+      "hd": 205021,
+      "iauBayer": "β Cep"
+    },
+    {
+      "properName": "Algedi",
+      "hip": 100064,
+      "hr": 7754,
+      "hd": 192947,
+      "iauBayer": "α2 Cap"
+    },
+    {
+      "properName": "Alkalurops",
+      "hip": 75411,
+      "hr": 5733,
+      "hd": 137391,
+      "iauBayer": "μ Boo"
+    },
+    {
+      "properName": "Alnasl",
+      "hip": 88635,
+      "hr": 6746,
+      "hd": 165135,
+      "iauBayer": "γ2 Sgr"
+    },
+    {
+      "properName": "Alshain",
+      "hip": 98036,
+      "hr": 7602,
+      "hd": 188512,
+      "iauBayer": "β Aql"
+    },
+    {
+      "properName": "Altais",
+      "hip": 94376,
+      "hr": 7310,
+      "hd": 180711,
+      "iauBayer": "δ Dra"
+    },
+    {
+      "properName": "Alya",
+      "hip": 92946,
+      "hr": 7141,
+      "hd": 175638,
+      "iauBayer": "θ1 Ser"
+    },
+    {
+      "properName": "Asterope",
+      "hip": 17579,
+      "hr": 1151,
+      "hd": 23432,
+      "iauBayer": "21 Tau"
+    },
+    {
+      "properName": "Atlas",
+      "hip": 17847,
+      "hr": 1178,
+      "hd": 23850,
+      "iauBayer": "27 Tau"
+    },
+    {
+      "properName": "Biham",
+      "hip": 109427,
+      "hr": 8450,
+      "hd": 210418,
+      "iauBayer": "θ Peg"
+    },
+    {
+      "properName": "Cebalrai",
+      "hip": 86742,
+      "hr": 6603,
+      "hd": 161096,
+      "iauBayer": "β Oph"
+    },
+    {
+      "properName": "Celaeno",
+      "hip": 17489,
+      "hr": 1140,
+      "hd": 23288,
+      "iauBayer": "16 Tau"
+    },
+    {
+      "properName": "Dabih",
+      "hip": 100345,
+      "hr": 7776,
+      "hd": 193495,
+      "iauBayer": "β1 Cap"
+    },
+    {
+      "properName": "Diphda",
+      "hip": 3419,
+      "hr": 188,
+      "hd": 4128,
+      "iauBayer": "β Cet"
+    },
+    {
+      "properName": "Dschubba",
+      "hip": 78401,
+      "hr": 5953,
+      "hd": 143275,
+      "iauBayer": "δ Sco"
+    },
+    {
+      "properName": "Electra",
+      "hip": 17499,
+      "hr": 1142,
+      "hd": 23302,
+      "iauBayer": "17 Tau"
+    },
+    {
+      "properName": "Eltanin",
+      "hip": 87833,
+      "hr": 6705,
+      "hd": 164058,
+      "iauBayer": "γ Dra"
+    },
+    {
+      "properName": "Hadar",
+      "hip": 68702,
+      "hr": 5267,
+      "hd": 122451,
+      "iauBayer": "β Cen"
+    },
+    {
+      "properName": "Homam",
+      "hip": 112029,
+      "hr": 8634,
+      "hd": 214923,
+      "iauBayer": "ζ Peg"
+    },
+    {
+      "properName": "Izar",
+      "hip": 72105,
+      "hr": 5505,
+      "hd": 129988,
+      "iauBayer": "ε Boo"
+    },
+    {
+      "properName": "Kitalpha",
+      "hip": 104987,
+      "hr": 8131,
+      "hd": 202447,
+      "iauBayer": "α Equ"
+    },
+    {
+      "properName": "Kornephoros",
+      "hip": 80816,
+      "hr": 6148,
+      "hd": 148856,
+      "iauBayer": "β Her"
+    },
+    {
+      "properName": "Lesath",
+      "hip": 85696,
+      "hr": 6508,
+      "hd": 158408,
+      "iauBayer": "υ Sco"
+    },
+    {
+      "properName": "Matar",
+      "hip": 112158,
+      "hr": 8650,
+      "hd": 215182,
+      "iauBayer": "η Peg"
+    },
+    {
+      "properName": "Menkent",
+      "hip": 68933,
+      "hr": 5288,
+      "hd": 123139,
+      "iauBayer": "θ Cen"
+    },
+    {
+      "properName": "Mothallah",
+      "hip": 8796,
+      "hr": 544,
+      "hd": 11443,
+      "iauBayer": "α Tri"
+    },
+    {
+      "properName": "Muliphein",
+      "hip": 34045,
+      "hr": 2657,
+      "hd": 53244,
+      "iauBayer": "γ CMa"
+    },
+    {
+      "properName": "Naos",
+      "hip": 39429,
+      "hr": 3165,
+      "hd": 66811,
+      "iauBayer": "ζ Pup"
+    },
+    {
+      "properName": "Nashira",
+      "hip": 106985,
+      "hr": 8278,
+      "hd": 206088,
+      "iauBayer": "γ Cap"
+    },
+    {
+      "properName": "Nekkar",
+      "hip": 73555,
+      "hr": 5602,
+      "hd": 133208,
+      "iauBayer": "β Boo"
+    },
+    {
+      "properName": "Nunki",
+      "hip": 92855,
+      "hr": 7121,
+      "hd": 175191,
+      "iauBayer": "σ Sgr"
+    },
+    {
+      "properName": "Pherkad",
+      "hip": 75097,
+      "hr": 5735,
+      "hd": 137422,
+      "iauBayer": "γ UMi"
+    },
+    {
+      "properName": "Proxima Centauri",
+      "hip": 70890,
+      "hr": null,
+      "hd": null,
+      "iauBayer": "α Cen"
+    },
+    {
+      "properName": "Rastaban",
+      "hip": 85670,
+      "hr": 6536,
+      "hd": 159181,
+      "iauBayer": "β Dra"
+    },
+    {
+      "properName": "Ruchbah",
+      "hip": 6686,
+      "hr": 403,
+      "hd": 8538,
+      "iauBayer": "δ Cas"
+    },
+    {
+      "properName": "Sabik",
+      "hip": 84012,
+      "hr": 6378,
+      "hd": 155125,
+      "iauBayer": "η Oph"
+    },
+    {
+      "properName": "Sadachbia",
+      "hip": 110395,
+      "hr": 8518,
+      "hd": 212061,
+      "iauBayer": "γ Aqr"
+    },
+    {
+      "properName": "Sadalbari",
+      "hip": 112748,
+      "hr": 8684,
+      "hd": 216131,
+      "iauBayer": "μ Peg"
+    },
+    {
+      "properName": "Sadalmelik",
+      "hip": 109074,
+      "hr": 8414,
+      "hd": 209750,
+      "iauBayer": "α Aqr"
+    },
+    {
+      "properName": "Sadalsuud",
+      "hip": 106278,
+      "hr": 8232,
+      "hd": 204867,
+      "iauBayer": "β Aqr"
+    },
+    {
+      "properName": "Sadr",
+      "hip": 100453,
+      "hr": 7796,
+      "hd": 194093,
+      "iauBayer": "γ Cyg"
+    },
+    {
+      "properName": "Sargas",
+      "hip": 86228,
+      "hr": 6553,
+      "hd": 159532,
+      "iauBayer": "θ Sco"
+    },
+    {
+      "properName": "Schedar",
+      "hip": 3179,
+      "hr": 168,
+      "hd": 3712,
+      "iauBayer": "α Cas"
+    },
+    {
+      "properName": "Seginus",
+      "hip": 71075,
+      "hr": 5435,
+      "hd": 127762,
+      "iauBayer": "γ Boo"
+    },
+    {
+      "properName": "Sheliak",
+      "hip": 92420,
+      "hr": 7106,
+      "hd": 174638,
+      "iauBayer": "β Lyr"
+    },
+    {
+      "properName": "Skat",
+      "hip": 113136,
+      "hr": 8709,
+      "hd": 216627,
+      "iauBayer": "δ Aqr"
+    },
+    {
+      "properName": "Suhail",
+      "hip": 44816,
+      "hr": 3634,
+      "hd": 78647,
+      "iauBayer": "λ Vel"
+    },
+    {
+      "properName": "Sulafat",
+      "hip": 93194,
+      "hr": 7178,
+      "hd": 176437,
+      "iauBayer": "γ Lyr"
+    },
+    {
+      "properName": "Tarazed",
+      "hip": 97278,
+      "hr": 7525,
+      "hd": 186791,
+      "iauBayer": "γ Aql"
+    },
+    {
+      "properName": "Taygeta",
+      "hip": 17531,
+      "hr": 1145,
+      "hd": 23338,
+      "iauBayer": "19 Tau"
+    },
+    {
+      "properName": "Unukalhai",
+      "hip": 77070,
+      "hr": 5854,
+      "hd": 140573,
+      "iauBayer": "α Ser"
+    },
+    {
+      "properName": "Wasat",
+      "hip": 35550,
+      "hr": 2777,
+      "hd": 56986,
+      "iauBayer": "δ Gem"
+    },
+    {
+      "properName": "Yildun",
+      "hip": 85822,
+      "hr": 6789,
+      "hd": 166205,
+      "iauBayer": "δ UMi"
+    },
+    {
+      "properName": "Zavijava",
+      "hip": 57757,
+      "hr": 4540,
+      "hd": 102870,
+      "iauBayer": "β Vir"
+    },
+    {
+      "properName": "Zubenelgenubi",
+      "hip": 72622,
+      "hr": 5531,
+      "hd": 130841,
+      "iauBayer": "α2 Lib"
+    },
+    {
+      "properName": "Zubeneschamali",
+      "hip": 74785,
+      "hr": 5685,
+      "hd": 135742,
+      "iauBayer": "β Lib"
+    },
+    {
+      "properName": "Acamar",
+      "hip": 13847,
+      "hr": 897,
+      "hd": 18622,
+      "iauBayer": "θ1 Eri"
+    },
+    {
+      "properName": "Acrux",
+      "hip": 60718,
+      "hr": 4730,
+      "hd": 108248,
+      "iauBayer": "α Cru"
+    },
+    {
+      "properName": "Acubens",
+      "hip": 44066,
+      "hr": 3572,
+      "hd": 76756,
+      "iauBayer": "α Cnc"
+    },
+    {
+      "properName": "Adhafera",
+      "hip": 50335,
+      "hr": 4031,
+      "hd": 89025,
+      "iauBayer": "ζ Leo"
+    },
+    {
+      "properName": "Albireo",
+      "hip": 95947,
+      "hr": 7417,
+      "hd": 183912,
+      "iauBayer": "β Cyg"
+    },
+    {
+      "properName": "Alderamin",
+      "hip": 105199,
+      "hr": 8162,
+      "hd": 203280,
+      "iauBayer": "α Cep"
+    },
+    {
+      "properName": "Algieba",
+      "hip": 50583,
+      "hr": 4057,
+      "hd": 89484,
+      "iauBayer": "γ1 Leo"
+    },
+    {
+      "properName": "Algorab",
+      "hip": 60965,
+      "hr": 4757,
+      "hd": 108767,
+      "iauBayer": "δ Crv"
+    },
+    {
+      "properName": "Alhena",
+      "hip": 31681,
+      "hr": 2421,
+      "hd": 47105,
+      "iauBayer": "γ Gem"
+    },
+    {
+      "properName": "Almach",
+      "hip": 9640,
+      "hr": 603,
+      "hd": 12533,
+      "iauBayer": "γ And"
+    },
+    {
+      "properName": "Alnair",
+      "hip": 109268,
+      "hr": 8425,
+      "hd": 209952,
+      "iauBayer": "α Gru"
+    },
+    {
+      "properName": "Alnilam",
+      "hip": 26311,
+      "hr": 1903,
+      "hd": 37128,
+      "iauBayer": "ε Ori"
+    },
+    {
+      "properName": "Alnitak",
+      "hip": 26727,
+      "hr": 1948,
+      "hd": 37742,
+      "iauBayer": "ζ Ori"
+    },
+    {
+      "properName": "Alphard",
+      "hip": 46390,
+      "hr": 3748,
+      "hd": 81797,
+      "iauBayer": "α Hya"
+    },
+    {
+      "properName": "Alphecca",
+      "hip": 76267,
+      "hr": 5793,
+      "hd": 139006,
+      "iauBayer": "α CrB"
+    },
+    {
+      "properName": "Aludra",
+      "hip": 35904,
+      "hr": 2827,
+      "hd": 58350,
+      "iauBayer": "η CMa"
+    },
+    {
+      "properName": "Alula Borealis",
+      "hip": 55219,
+      "hr": 4377,
+      "hd": 98262,
+      "iauBayer": "ν UMa"
+    },
+    {
+      "properName": "Ankaa",
+      "hip": 2081,
+      "hr": 99,
+      "hd": 2261,
+      "iauBayer": "α  Phe"
+    },
+    {
+      "properName": "Arneb",
+      "hip": 25985,
+      "hr": 1865,
+      "hd": 36673,
+      "iauBayer": "α Lep"
+    },
+    {
+      "properName": "Aspidiske",
+      "hip": 45556,
+      "hr": 3699,
+      "hd": 80404,
+      "iauBayer": "ι Car"
+    },
+    {
+      "properName": "Atria",
+      "hip": 82273,
+      "hr": 6217,
+      "hd": 150798,
+      "iauBayer": "α TrA"
+    },
+    {
+      "properName": "Avior",
+      "hip": 41037,
+      "hr": 3307,
+      "hd": 71129,
+      "iauBayer": "ε Car"
+    },
+    {
+      "properName": "Chara",
+      "hip": 61317,
+      "hr": 4785,
+      "hd": 109358,
+      "iauBayer": "β CVn"
+    },
+    {
+      "properName": "Chertan",
+      "hip": 54879,
+      "hr": 4359,
+      "hd": 97633,
+      "iauBayer": "θ Leo"
+    },
+    {
+      "properName": "Copernicus",
+      "hip": 43587,
+      "hr": 3522,
+      "hd": 75732,
+      "iauBayer": "55 Cnc"
+    },
+    {
+      "properName": "Cor Caroli",
+      "hip": 63125,
+      "hr": 4915,
+      "hd": 112413,
+      "iauBayer": "α2 CVn"
+    },
+    {
+      "properName": "Cursa",
+      "hip": 23875,
+      "hr": 1666,
+      "hd": 33111,
+      "iauBayer": "β Eri"
+    },
+    {
+      "properName": "Elnath",
+      "hip": 25428,
+      "hr": 1791,
+      "hd": 35497,
+      "iauBayer": "β Tau"
+    },
+    {
+      "properName": "Enif",
+      "hip": 107315,
+      "hr": 8308,
+      "hd": 206778,
+      "iauBayer": "ε Peg"
+    },
+    {
+      "properName": "Furud",
+      "hip": 30122,
+      "hr": 2282,
+      "hd": 44402,
+      "iauBayer": "ζ CMa"
+    },
+    {
+      "properName": "Gacrux",
+      "hip": 61084,
+      "hr": 4763,
+      "hd": 108903,
+      "iauBayer": "γ Cru"
+    },
+    {
+      "properName": "Gomeisa",
+      "hip": 36188,
+      "hr": 2845,
+      "hd": 58715,
+      "iauBayer": "β CMi"
+    },
+    {
+      "properName": "Hamal",
+      "hip": 9884,
+      "hr": 617,
+      "hd": 12929,
+      "iauBayer": "α Ari"
+    },
+    {
+      "properName": "Kaus Australis",
+      "hip": 90185,
+      "hr": 6879,
+      "hd": 169022,
+      "iauBayer": "ε Sgr"
+    },
+    {
+      "properName": "Kaus Borealis",
+      "hip": 90496,
+      "hr": 6913,
+      "hd": 169916,
+      "iauBayer": "λ Sgr"
+    },
+    {
+      "properName": "Kaus Media",
+      "hip": 89931,
+      "hr": 6859,
+      "hd": 168454,
+      "iauBayer": "δ Sgr"
+    },
+    {
+      "properName": "Kochab",
+      "hip": 72607,
+      "hr": 5563,
+      "hd": 131873,
+      "iauBayer": "β UMi"
+    },
+    {
+      "properName": "Maia",
+      "hip": 17573,
+      "hr": 1149,
+      "hd": 23408,
+      "iauBayer": "20 Tau"
+    },
+    {
+      "properName": "Mebsuta",
+      "hip": 32246,
+      "hr": 2473,
+      "hd": 48329,
+      "iauBayer": "ε Gem"
+    },
+    {
+      "properName": "Meissa",
+      "hip": 26207,
+      "hr": 1879,
+      "hd": 36861,
+      "iauBayer": "λ Ori"
+    },
+    {
+      "properName": "Menkalinan",
+      "hip": 28360,
+      "hr": 2088,
+      "hd": 40183,
+      "iauBayer": "β Aur"
+    },
+    {
+      "properName": "Merope",
+      "hip": 17608,
+      "hr": 1156,
+      "hd": 23480,
+      "iauBayer": "23 Tau"
+    },
+    {
+      "properName": "Miaplacidus",
+      "hip": 45238,
+      "hr": 3685,
+      "hd": 80007,
+      "iauBayer": "β Car"
+    },
+    {
+      "properName": "Mimosa",
+      "hip": 62434,
+      "hr": 4853,
+      "hd": 111123,
+      "iauBayer": "β Cru"
+    },
+    {
+      "properName": "Mintaka",
+      "hip": 25930,
+      "hr": 1852,
+      "hd": 36486,
+      "iauBayer": "δ Ori"
+    },
+    {
+      "properName": "Mirfak",
+      "hip": 15863,
+      "hr": 1017,
+      "hd": 20902,
+      "iauBayer": "α Per"
+    },
+    {
+      "properName": "Mirzam",
+      "hip": 30324,
+      "hr": 2294,
+      "hd": 44743,
+      "iauBayer": "β CMa"
+    },
+    {
+      "properName": "Muscida",
+      "hip": 41704,
+      "hr": 3323,
+      "hd": 71369,
+      "iauBayer": "ο UMa"
+    },
+    {
+      "properName": "Nihal",
+      "hip": 25606,
+      "hr": 1829,
+      "hd": 36079,
+      "iauBayer": "β Lep"
+    },
+    {
+      "properName": "Peacock",
+      "hip": 100751,
+      "hr": 7790,
+      "hd": 193924,
+      "iauBayer": "α Pav"
+    },
+    {
+      "properName": "Phact",
+      "hip": 26634,
+      "hr": 1956,
+      "hd": 37795,
+      "iauBayer": "α Col"
+    },
+    {
+      "properName": "Phecda",
+      "hip": 58001,
+      "hr": 4554,
+      "hd": 103287,
+      "iauBayer": "γ UMa"
+    },
+    {
+      "properName": "Porrima",
+      "hip": 61941,
+      "hr": 4825,
+      "hd": 110379,
+      "iauBayer": "γ Vir"
+    },
+    {
+      "properName": "Propus",
+      "hip": 29655,
+      "hr": 2216,
+      "hd": 42995,
+      "iauBayer": "η Gem"
+    },
+    {
+      "properName": "Rasalhague",
+      "hip": 86032,
+      "hr": 6556,
+      "hd": 159561,
+      "iauBayer": "α Oph"
+    },
+    {
+      "properName": "Rukbat",
+      "hip": 95347,
+      "hr": 7348,
+      "hd": 181869,
+      "iauBayer": "α Sgr"
+    },
+    {
+      "properName": "Saiph",
+      "hip": 27366,
+      "hr": 2004,
+      "hd": 38771,
+      "iauBayer": "κ Ori"
+    },
+    {
+      "properName": "Shaula",
+      "hip": 85927,
+      "hr": 6527,
+      "hd": 158926,
+      "iauBayer": "λ Sco"
+    },
+    {
+      "properName": "Sheratan",
+      "hip": 8903,
+      "hr": 553,
+      "hd": 11636,
+      "iauBayer": "β Ari"
+    },
+    {
+      "properName": "Talitha",
+      "hip": 44127,
+      "hr": 3569,
+      "hd": 76644,
+      "iauBayer": "ι UMa"
+    },
+    {
+      "properName": "Tania Australis",
+      "hip": 50801,
+      "hr": 4069,
+      "hd": 89758,
+      "iauBayer": "μ UMa"
+    },
+    {
+      "properName": "Tania Borealis",
+      "hip": 50372,
+      "hr": 4033,
+      "hd": 89021,
+      "iauBayer": "λ UMa"
+    },
+    {
+      "properName": "Tonatiuh",
+      "hip": 58952,
+      "hr": 4609,
+      "hd": 104985,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Vindemiatrix",
+      "hip": 63608,
+      "hr": 4932,
+      "hd": 113226,
+      "iauBayer": "ε Vir"
+    },
+    {
+      "properName": "Wazn",
+      "hip": 27628,
+      "hr": 2040,
+      "hd": 39425,
+      "iauBayer": "β Col"
+    },
+    {
+      "properName": "Wezen",
+      "hip": 34444,
+      "hr": 2693,
+      "hd": 54605,
+      "iauBayer": "δ CMa"
+    },
+    {
+      "properName": "Zaurak",
+      "hip": 18543,
+      "hr": 1231,
+      "hd": 25025,
+      "iauBayer": "γ Eri"
+    },
+    {
+      "properName": "Zosma",
+      "hip": 54872,
+      "hr": 4357,
+      "hd": 97603,
+      "iauBayer": "δ Leo"
+    },
+    {
+      "properName": "Achernar",
+      "hip": 7588,
+      "hr": 472,
+      "hd": 10144,
+      "iauBayer": "α Eri"
+    },
+    {
+      "properName": "Alcor",
+      "hip": 65477,
+      "hr": 5062,
+      "hd": 116842,
+      "iauBayer": "80 UMa"
+    },
+    {
+      "properName": "Alcyone",
+      "hip": 17702,
+      "hr": 1165,
+      "hd": 23630,
+      "iauBayer": "η Tau"
+    },
+    {
+      "properName": "Aldebaran",
+      "hip": 21421,
+      "hr": 1457,
+      "hd": 29139,
+      "iauBayer": "α Tau"
+    },
+    {
+      "properName": "Algenib",
+      "hip": 1067,
+      "hr": 39,
+      "hd": 886,
+      "iauBayer": "γ Peg"
+    },
+    {
+      "properName": "Algol",
+      "hip": 14576,
+      "hr": 936,
+      "hd": 19356,
+      "iauBayer": "β Per"
+    },
+    {
+      "properName": "Alioth",
+      "hip": 62956,
+      "hr": 4905,
+      "hd": 112185,
+      "iauBayer": "ε UMa"
+    },
+    {
+      "properName": "Aljanah",
+      "hip": 102488,
+      "hr": 7949,
+      "hd": 197989,
+      "iauBayer": "ε Cyg"
+    },
+    {
+      "properName": "Alkaid",
+      "hip": 67301,
+      "hr": 5191,
+      "hd": 120315,
+      "iauBayer": "η UMa"
+    },
+    {
+      "properName": "Alpheratz",
+      "hip": 677,
+      "hr": 15,
+      "hd": 358,
+      "iauBayer": "α And"
+    },
+    {
+      "properName": "Altair",
+      "hip": 97649,
+      "hr": 7557,
+      "hd": 187642,
+      "iauBayer": "α Aql"
+    },
+    {
+      "properName": "Antares",
+      "hip": 80763,
+      "hr": 6134,
+      "hd": 148478,
+      "iauBayer": "α Sco"
+    },
+    {
+      "properName": "Arcturus",
+      "hip": 69673,
+      "hr": 5340,
+      "hd": 124897,
+      "iauBayer": "α Boo"
+    },
+    {
+      "properName": "Bellatrix",
+      "hip": 25336,
+      "hr": 1790,
+      "hd": 35468,
+      "iauBayer": "γ Ori"
+    },
+    {
+      "properName": "Betelgeuse",
+      "hip": 27989,
+      "hr": 2061,
+      "hd": 39801,
+      "iauBayer": "α Ori"
+    },
+    {
+      "properName": "Canopus",
+      "hip": 30438,
+      "hr": 2326,
+      "hd": 45348,
+      "iauBayer": "α Car"
+    },
+    {
+      "properName": "Capella",
+      "hip": 24608,
+      "hr": 1708,
+      "hd": 34029,
+      "iauBayer": "α Aur"
+    },
+    {
+      "properName": "Caph",
+      "hip": 746,
+      "hr": 21,
+      "hd": 432,
+      "iauBayer": "β Cas"
+    },
+    {
+      "properName": "Castor",
+      "hip": 36850,
+      "hr": 2891,
+      "hd": 60179,
+      "iauBayer": "α Gem"
+    },
+    {
+      "properName": "Deneb",
+      "hip": 102098,
+      "hr": 7924,
+      "hd": 197345,
+      "iauBayer": "α Cyg"
+    },
+    {
+      "properName": "Denebola",
+      "hip": 57632,
+      "hr": 4534,
+      "hd": 102647,
+      "iauBayer": "β Leo"
+    },
+    {
+      "properName": "Dubhe",
+      "hip": 54061,
+      "hr": 4301,
+      "hd": 95689,
+      "iauBayer": "α UMa"
+    },
+    {
+      "properName": "Megrez",
+      "hip": 59774,
+      "hr": 4660,
+      "hd": 106591,
+      "iauBayer": "δ UMa"
+    },
+    {
+      "properName": "Menkar",
+      "hip": 14135,
+      "hr": 911,
+      "hd": 18884,
+      "iauBayer": "α Cet"
+    },
+    {
+      "properName": "Merak",
+      "hip": 53910,
+      "hr": 4295,
+      "hd": 95418,
+      "iauBayer": "β UMa"
+    },
+    {
+      "properName": "Mira",
+      "hip": 10826,
+      "hr": 681,
+      "hd": 14386,
+      "iauBayer": "ο Cet"
+    },
+    {
+      "properName": "Mirach",
+      "hip": 5447,
+      "hr": 337,
+      "hd": 6860,
+      "iauBayer": "β And"
+    },
+    {
+      "properName": "Mizar",
+      "hip": 65378,
+      "hr": 5054,
+      "hd": 116656,
+      "iauBayer": "ζ UMa"
+    },
+    {
+      "properName": "Pleione",
+      "hip": 17851,
+      "hr": 1180,
+      "hd": 23862,
+      "iauBayer": "28 Tau"
+    },
+    {
+      "properName": "Polaris",
+      "hip": 11767,
+      "hr": 424,
+      "hd": 8890,
+      "iauBayer": "α UMi"
+    },
+    {
+      "properName": "Procyon",
+      "hip": 37279,
+      "hr": 2943,
+      "hd": 61421,
+      "iauBayer": "α CMi"
+    },
+    {
+      "properName": "Regulus",
+      "hip": 49669,
+      "hr": 3982,
+      "hd": 87901,
+      "iauBayer": "α Leo"
+    },
+    {
+      "properName": "Rigel",
+      "hip": 24436,
+      "hr": 1713,
+      "hd": 34085,
+      "iauBayer": "β Ori"
+    },
+    {
+      "properName": "Scheat",
+      "hip": 113881,
+      "hr": 8775,
+      "hd": 217906,
+      "iauBayer": "β Peg"
+    },
+    {
+      "properName": "Sirius",
+      "hip": 32349,
+      "hr": 2491,
+      "hd": 48915,
+      "iauBayer": "α CMa"
+    },
+    {
+      "properName": "Spica",
+      "hip": 65474,
+      "hr": 5056,
+      "hd": 116658,
+      "iauBayer": "α Vir"
+    },
+    {
+      "properName": "Thuban",
+      "hip": 68756,
+      "hr": 5291,
+      "hd": 123299,
+      "iauBayer": "α Dra"
+    },
+    {
+      "properName": "Vega",
+      "hip": 91262,
+      "hr": 7001,
+      "hd": 172167,
+      "iauBayer": "α Lyr"
+    },
+    {
+      "properName": "Ain",
+      "hip": 20889,
+      "hr": 1409,
+      "hd": 28305,
+      "iauBayer": "ε Tau"
+    },
+    {
+      "properName": "Cervantes",
+      "hip": 86796,
+      "hr": 6585,
+      "hd": 160691,
+      "iauBayer": "μ Ara"
+    },
+    {
+      "properName": "Chalawan",
+      "hip": 53721,
+      "hr": 4277,
+      "hd": 95128,
+      "iauBayer": "47 UMa"
+    },
+    {
+      "properName": "Edasich",
+      "hip": 75458,
+      "hr": 5744,
+      "hd": 137759,
+      "iauBayer": "ι Dra"
+    },
+    {
+      "properName": "Errai",
+      "hip": 116727,
+      "hr": 8974,
+      "hd": 222404,
+      "iauBayer": "γ Cep"
+    },
+    {
+      "properName": "Fafnir",
+      "hip": 90344,
+      "hr": 6945,
+      "hd": 170693,
+      "iauBayer": "42 Dra"
+    },
+    {
+      "properName": "Fomalhaut",
+      "hip": 113368,
+      "hr": 8728,
+      "hd": 216956,
+      "iauBayer": "α PsA"
+    },
+    {
+      "properName": "Helvetios",
+      "hip": 113357,
+      "hr": 8729,
+      "hd": 217014,
+      "iauBayer": "51 Peg"
+    },
+    {
+      "properName": "Intercrus",
+      "hip": 46471,
+      "hr": 3743,
+      "hd": 81688,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Libertas",
+      "hip": 97938,
+      "hr": 7595,
+      "hd": 188310,
+      "iauBayer": "ξ Aql"
+    },
+    {
+      "properName": "Musica",
+      "hip": 103527,
+      "hr": 8030,
+      "hd": 199665,
+      "iauBayer": "18 Del"
+    },
+    {
+      "properName": "Ogma",
+      "hip": 80838,
+      "hr": null,
+      "hd": 149026,
+      "iauBayer": ""
+    },
+    {
+      "properName": "Pollux",
+      "hip": 37826,
+      "hr": 2990,
+      "hd": 62509,
+      "iauBayer": "β Gem"
+    },
+    {
+      "properName": "Ran",
+      "hip": 16537,
+      "hr": 1084,
+      "hd": 22049,
+      "iauBayer": "ε Eri"
+    },
+    {
+      "properName": "Titawin",
+      "hip": 7513,
+      "hr": 458,
+      "hd": 9826,
+      "iauBayer": "υ And"
+    },
+    {
+      "properName": "Veritate",
+      "hip": 116076,
+      "hr": 8930,
+      "hd": 221345,
+      "iauBayer": "14 And"
+    }
+  ],
+  "rejected": [
+    {
+      "name": "Anunitu",
+      "hip": "3031",
+      "separationArcsec": 93727.347
+    },
+    {
+      "name": "Zibbatu",
+      "hip": "9353",
+      "separationArcsec": 376166.206
+    },
+    {
+      "name": "Ebla",
+      "hip": "114322",
+      "separationArcsec": 215814.636
+    },
+    {
+      "name": "Alrakis",
+      "hip": "83608",
+      "separationArcsec": 2604.362
+    },
+    {
+      "name": "Barnard's Star",
+      "hip": "87937",
+      "separationArcsec": 90.63
+    },
+    {
+      "name": "Tegmine",
+      "hip": "40167",
+      "separationArcsec": 9775.303
+    },
+    {
+      "name": "Alrescha",
+      "hip": "9487",
+      "separationArcsec": 99892.796
+    },
+    {
+      "name": "Rasalgethi",
+      "hip": "84345",
+      "separationArcsec": 11917.869
+    }
+  ],
+  "acceptedIdentifierMatchesWithPageCoordinateMismatch": [
+    {
+      "name": "Alsephina",
+      "hip": "42913",
+      "hr": 3485,
+      "pageCoordinateSeparationArcsec": 21674.535,
+      "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+    },
+    {
+      "name": "Nganurganity",
+      "hip": "33856",
+      "hr": 2646,
+      "pageCoordinateSeparationArcsec": 1275.807,
+      "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+    },
+    {
+      "name": "Alkalurops",
+      "hip": "75411",
+      "hr": 5733,
+      "pageCoordinateSeparationArcsec": 16345.168,
+      "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+    },
+    {
+      "name": "Copernicus",
+      "hip": "43587",
+      "hr": 3522,
+      "pageCoordinateSeparationArcsec": 38872.611,
+      "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+    },
+    {
+      "name": "Tonatiuh",
+      "hip": "58952",
+      "hr": 4609,
+      "pageCoordinateSeparationArcsec": 999.458,
+      "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+    },
+    {
+      "name": "Mira",
+      "hip": "10826",
+      "hr": 681,
+      "pageCoordinateSeparationArcsec": 16229.148,
+      "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+    },
+    {
+      "name": "Mizar",
+      "hip": "65378",
+      "hr": 5054,
+      "pageCoordinateSeparationArcsec": 11545.886,
+      "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+    },
+    {
+      "name": "Chalawan",
+      "hip": "53721",
+      "hr": 4277,
+      "pageCoordinateSeparationArcsec": 37983.78,
+      "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+    },
+    {
+      "name": "Errai",
+      "hip": "116727",
+      "hr": 8974,
+      "pageCoordinateSeparationArcsec": 7071.959,
+      "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+    },
+    {
+      "name": "Veritate",
+      "hip": "116076",
+      "hr": 8930,
+      "pageCoordinateSeparationArcsec": 20352.467,
+      "acceptedBy": "Concordant HIP and HR identifiers; WGSN page position not used."
+    }
+  ]
+}

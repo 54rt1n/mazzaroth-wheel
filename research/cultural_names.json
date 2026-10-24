@@ -1,0 +1,163 @@
+{
+  "ea-02": {
+    "culturalNames": {
+      "Hebrew": "כִּימָה — kīmāh; conventionally the Pleiades (Job 9:9; 38:31).",
+      "Amorite / Eblaite": "Kēmat / kaymatu: genuine linguistic parallels to Hebrew kīmāh, associated with the Pleiades in bilingual lexical evidence.",
+      "Younger Avestan": "paoiryaēinyas — the Pleiades; an indigenous Iranian name, not a demonstrated borrowing of the Semitic name.",
+      "Later Persian": "Parvīn — the Pleiades.",
+      "Connection": "Strong shared astronomical object. Akkadian kīmtu, ‘family,’ is a lexical cognate, not the standard Akkadian star name; that is zappu."
+    },
+    "sources": [
+      {
+        "label": "George and Krebernik (2022), Amorite–Akkadian bilinguals, entry 1:11",
+        "url": "https://shs.cairn.info/revue-d-assyriologie-2022-1-page-113?lang=en&tab=texte-integral"
+      },
+      {
+        "label": "Golinets (2025), Hebrew lexicography, §2.2",
+        "url": "https://books.openbookpublishers.com/10.11647/obp.0463.32.pdf"
+      },
+      {
+        "label": "MacKenzie, Constellations, Encyclopaedia Iranica",
+        "url": "https://www.iranicaonline.org/articles/constellations/"
+      }
+    ]
+  },
+  "ea-03": {
+    "culturalNames": {
+      "Hebrew": "כְּסִיל — kəsīl; conventionally Orion (Job 9:9; 38:31). The ordinary Hebrew noun means ‘fool.’",
+      "Aramaic / Syriac": "Some versions use giant terminology for the corresponding constellation.",
+      "Connection": "The identification with Orion connects kəsīl to the True Shepherd of Anu astronomically. The names are not linguistic cognates, and a shared story is not thereby established.",
+      "Early Iranian evidence": "No securely attested early Iranian Orion name is established in this crosswalk."
+    },
+    "sources": [
+      {
+        "label": "Albani, Sterne / Sternbilder / Sterndeutung, WiBiLex, §2.1",
+        "url": "https://www.die-bibel.de/stichwort/30478/"
+      },
+      {
+        "label": "Job 38, Hebrew text",
+        "url": "https://mechon-mamre.org/p/pt/pt2738.htm"
+      }
+    ]
+  },
+  "enlil-05": {
+    "culturalNames": {
+      "Hebrew — disputed": "עָשׁ / עַיִשׁ — ʿāš / ʿayiš (Job 9:9; 38:32), if the Ursa Major interpretation is adopted. Aldebaran with the Hyades is a serious alternative.",
+      "Younger Avestan": "haptōiriṇga — Ursa Major.",
+      "Later Iranian": "Haftōring / Haftōrang; its northern commander's role is documented in later Pahlavi literature.",
+      "Connection": "The Iranian astronomical comparison is strong; the Hebrew correspondence is conditional. ‘Bear’ is not a literal translation of the Hebrew name."
+    },
+    "sources": [
+      {
+        "label": "Albani, Sterne / Sternbilder / Sterndeutung, WiBiLex, §2.1",
+        "url": "https://www.die-bibel.de/stichwort/30478/"
+      },
+      {
+        "label": "MacKenzie, Constellations, Encyclopaedia Iranica",
+        "url": "https://www.iranicaonline.org/articles/constellations/"
+      },
+      {
+        "label": "Panaino, Haftōrang, Encyclopaedia Iranica",
+        "url": "https://www.iranicaonline.org/articles/haftorang/"
+      }
+    ]
+  },
+  "ea-04": {
+    "culturalNames": {
+      "Avestan": "Tištrya — Sirius.",
+      "Middle Persian": "Tištar — Sirius.",
+      "Narrative": "Yasht 8 associates Tištrya with rain and depicts the star's struggle with the drought adversary Apaosha.",
+      "Connection": "A strong shared astronomical object with a documented Iranian narrative. No secure named counterpart is supplied by Job's star list."
+    },
+    "sources": [
+      {
+        "label": "Panaino, Tištrya, Encyclopaedia Iranica",
+        "url": "https://www.iranicaonline.org/articles/tistrya-2/"
+      },
+      {
+        "label": "Yasht 8, translation",
+        "url": "https://www.avesta.org/ka/yt8sbe.htm"
+      }
+    ]
+  },
+  "anu-01": {
+    "culturalNames": {
+      "Later planetary comparison (conditional)": "Middle Persian Anāhīd — Venus.",
+      "Connection": "This comparison applies to Dilbat's slot only if its planetary identification is valid in this earlier list; the original referent remains unresolved. The later Iranian name does not establish an original Median or Avestan planetary usage. No secure name occurs in Job 38."
+    },
+    "sources": [
+      {
+        "label": "Panaino, Planets, Encyclopaedia Iranica",
+        "url": "https://www.iranicaonline.org/articles/planets/"
+      },
+      {
+        "label": "Reiner and Pingree (1981), historical distinction between stellar and later planetary usages, pp. 1–4",
+        "url": "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+      },
+      {
+        "label": "Cifola and Hughey (2023), uncertainty of earlier referents, §9",
+        "url": "https://cdli.earth/articles/cdlj/2023-1"
+      }
+    ]
+  },
+  "ea-09": {
+    "culturalNames": {
+      "Later planetary comparison (conditional)": "Middle Persian Wahrām — Mars.",
+      "Connection": "This comparison applies to Ṣalbatānu's slot only if its planetary identification is valid in this earlier list; the original referent remains unresolved. The later Iranian name does not establish an original Median or Avestan planetary usage. No secure name occurs in Job 38."
+    },
+    "sources": [
+      {
+        "label": "Panaino, Planets, Encyclopaedia Iranica",
+        "url": "https://www.iranicaonline.org/articles/planets/"
+      },
+      {
+        "label": "Reiner and Pingree (1981), historical distinction between stellar and later planetary usages, pp. 1–4",
+        "url": "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+      },
+      {
+        "label": "Cifola and Hughey (2023), uncertainty of earlier referents, §9",
+        "url": "https://cdli.earth/articles/cdlj/2023-1"
+      }
+    ]
+  },
+  "enlil-04": {
+    "culturalNames": {
+      "Later planetary comparison (conditional)": "Middle Persian Ohrmazd — Jupiter.",
+      "Connection": "This comparison applies to Šulpae's slot only if its planetary identification is valid in this earlier list; the original referent remains unresolved. A later Jupiter association does not prove identity with the early Marduk slot. Distinguish the planetary usage from the deity's name; this is not direct evidence of a Median planetary name."
+    },
+    "sources": [
+      {
+        "label": "Panaino, Planets, Encyclopaedia Iranica",
+        "url": "https://www.iranicaonline.org/articles/planets/"
+      },
+      {
+        "label": "Reiner and Pingree (1981), historical distinction between stellar and later planetary usages, pp. 1–4",
+        "url": "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+      },
+      {
+        "label": "Cifola and Hughey (2023), uncertainty of earlier referents, §9",
+        "url": "https://cdli.earth/articles/cdlj/2023-1"
+      }
+    ]
+  },
+  "anu-12": {
+    "culturalNames": {
+      "Later planetary comparison (conditional)": "Middle Persian Ohrmazd — Jupiter.",
+      "Connection": "This comparison applies to Marduk's slot only if its planetary identification is valid in this earlier list; the original referent remains unresolved. A later Jupiter association does not prove identity with the early Šulpae slot. Distinguish the planetary usage from the deity's name; this is not direct evidence of a Median planetary name."
+    },
+    "sources": [
+      {
+        "label": "Panaino, Planets, Encyclopaedia Iranica",
+        "url": "https://www.iranicaonline.org/articles/planets/"
+      },
+      {
+        "label": "Reiner and Pingree (1981), historical distinction between stellar and later planetary usages, pp. 1–4",
+        "url": "https://undena.com/EL-UP/Edited_PDF/BM2.2.pdf"
+      },
+      {
+        "label": "Cifola and Hughey (2023), uncertainty of earlier referents, §9",
+        "url": "https://cdli.earth/articles/cdlj/2023-1"
+      }
+    ]
+  }
+}

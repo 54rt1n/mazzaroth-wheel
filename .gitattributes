@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.gz binary
+*.zip binary
+*.woff2 binary
+# Preserve pinned source bytes for their checksum/provenance records.
+research/** -text
+catalogue/*.json -text
+public/resources/** -text
+research/skycultures/** -whitespace
+public/resources/*.csv whitespace=cr-at-eol

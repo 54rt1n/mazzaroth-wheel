@@ -1,0 +1,28 @@
+node_modules/
+dist/
+.vite/
+*.local
+test-results/
+playwright-report/
+.data/
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.env
+.env.*
+!.env.example
+# Large, reproducible loose catalogue files created by explicit refresh scripts.
+# The pinned compressed snapshots are committed instead.
+catalogue/resolver.json
+catalogue/resolver.named.json
+catalogue/stars.json
+catalogue/name_resolver.json
+catalogue/background.json
+catalogue/hipparcos_main.tsv
+catalogue/hipparcos_bright.tsv
+catalogue/gaia_dr2_bright.csv
+catalogue/iau_names_page.html
+catalogue/bsc5_catalog.gz
+catalogue/duplicate_audit.json
+catalogue/manifest.json

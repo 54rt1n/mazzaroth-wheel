@@ -1,0 +1,51 @@
+{
+  "retrievedOn": "2026-10-24",
+  "sources": {
+    "job9": {
+      "label": "Job 9:9 — Hebrew text and JPS 1917 translation",
+      "url": "https://mechon-mamre.org/p/pt/pt2709.htm",
+      "role": "Primary biblical attestation; the translation supplies conventional modern identifications."
+    },
+    "job38": {
+      "label": "Job 38:31–32 — Hebrew text and JPS 1917 translation",
+      "url": "https://www.mechon-mamre.org/p/pt/pt2738.htm",
+      "role": "Primary attestation of Kimah, Kesil, Mazzaroth, and Ayish."
+    },
+    "amos5": {
+      "label": "Amos 5:8 — Hebrew text and JPS 1917 translation",
+      "url": "https://www.mechon-mamre.org/p/pt/pt1505.htm",
+      "role": "Primary attestation of Kimah and Kesil."
+    },
+    "berakhot": {
+      "label": "Babylonian Talmud, Berakhot 58b:12–16",
+      "url": "https://www.sefaria.org/Berakhot.58b.12-16",
+      "role": "Primary later rabbinic discussion, including disagreement over Ash/Yota."
+    },
+    "maimonides": {
+      "label": "Maimonides, Foundations of the Torah 3:6–7 (Mechon Mamre paragraphs 7–9)",
+      "url": "https://www.mechon-mamre.org/i/1103.htm",
+      "role": "Primary medieval Hebrew list of twelve zodiac names and distinction between signs and stellar figures."
+    },
+    "maimonides_calendar": {
+      "label": "Maimonides, Sanctification of the New Month, chapter 11 (Chabad paragraphs 7–9)",
+      "url": "https://www.chabad.org/library/article_cdo/aid/947929/jewish/Chapter-Eleven.htm",
+      "role": "Primary medieval list and 30-degree zodiac divisions; modern English translation consulted, not reproduced."
+    },
+    "yetzirah": {
+      "label": "Sefer Yetzirah, Gra recension 5:4",
+      "url": "https://www.sefaria.org/Sefer_Yetzirah_Gra_Version.5.4",
+      "role": "Corroborating Hebrew list; the date of a recension is not assigned to the biblical text."
+    },
+    "geometry": {
+      "label": "Stellarium modern line figures — pinned source",
+      "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern",
+      "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+      "role": "Modern Western reference geometry, CC BY-SA 4.0; not evidence of transmitted Hebrew outlines."
+    }
+  },
+  "textPolicy": "Store only ancient names and our paraphrases. Modern translations were consulted and linked, not reproduced.",
+  "sourceExcerpts": {
+    "maimonides_hebrew_names": "טלה שור תאומים סרטן אריה בתולה מאזניים עקרב קשת גדי דלי דגים",
+    "biblical_hebrew_names": "כימה כסיל עש עיש מזרות"
+  }
+}

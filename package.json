@@ -1,0 +1,41 @@
+{
+  "name": "mazzaroth-wheel",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "resources:sync": "node scripts/sync-resources.mjs",
+    "dev": "vite",
+    "check": "svelte-check --tsconfig ./tsconfig.json",
+    "build": "npm run licenses:build && npm run time:build && npm run check && vite build && node scripts/build-offline.mjs",
+    "preview": "vite preview",
+    "test:browser": "npm run build && playwright test",
+    "test:geometry": "node scripts/validate-geometry.mjs",
+    "time:build": "node scripts/build-time.mjs",
+    "predev": "npm run licenses:build && npm run time:build",
+    "test:time": "npm run time:build && node --test tests/time/*.test.mjs",
+    "pretest:geometry": "npm run time:build",
+    "licenses:build": "node scripts/build-licenses.mjs",
+    "resources:prepare": "python3 scripts/validate_snapshots.py && python3 scripts/build_data.py && python3 scripts/validate_data.py && python3 scripts/build_constellations.py && python3 scripts/validate_constellations.py && python3 scripts/build_constellations.py --check",
+    "resources:build": "npm run resources:prepare && npm run resources:sync",
+    "resources:check": "npm run resources:prepare && node scripts/sync-resources.mjs --check"
+  },
+  "dependencies": {
+    "svelte": "5.57.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@sveltejs/vite-plugin-svelte": "6.2.4",
+    "svelte-check": "4.7.6",
+    "typescript": "5.9.3",
+    "vite": "7.3.6"
+  },
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "author": {
+    "name": "Martin Bukowski",
+    "email": "martin@bmds.us"
+  }
+}

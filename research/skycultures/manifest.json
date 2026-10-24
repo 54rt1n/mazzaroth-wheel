@@ -1,0 +1,114 @@
+{
+  "repository": "https://github.com/Stellarium/stellarium",
+  "revision": "0d956aacee305c29a92498860bc394ed21e0e731",
+  "retrievedDate": "2026-10-24",
+  "files": {
+    "modern/index.json": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern/index.json",
+      "sha256": "1f2f5ffd6c9e25a7d0dcfdbf1f756e2db03dd3b8ed4ec016a2839b09f6b0fe1e",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "modern/description.md": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern/description.md",
+      "sha256": "4b58344f63168d7c816fdfef405103b5770fda2e1f4a4bf5c8871041ce042586",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "babylonian_mulapin/index.json": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/babylonian_mulapin/index.json",
+      "sha256": "fd666166659129430b01486a7d6368579defe025e1823428840cd54a75ee5b05",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "babylonian_mulapin/description.md": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/babylonian_mulapin/description.md",
+      "sha256": "ab6cd0a666154ab8ea28c02a043247a9edd6ff5f96b6c0a09056bbff83d5fb3e",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "chinese/index.json": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/chinese/index.json",
+      "sha256": "426118e6238ae69edb319c91d1a74b705eaa758222e962206e58c49b9dac9d8a",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "chinese/description.md": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/chinese/description.md",
+      "sha256": "f0dec3d4fb115bb8d5667e96fb9af0450f33489ec02747c8229903c15b3a2cac",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "gaia_dr3_supplement.csv": {
+      "url": "https://gea.esac.esa.int/tap-server/tap/sync?REQUEST=doQuery&LANG=ADQL&FORMAT=csv&QUERY=SELECT+source_id%2Cra%2Cdec%2Cref_epoch%2Cpmra%2Cpmdec%2Cparallax%2Cphot_g_mean_mag%2Cbp_rp+FROM+gaiadr3.gaia_source+WHERE+source_id%3D5350358584482202880",
+      "sha256": "4c7c4f3482193b5e7931352d494051131aa4e08f9e5c13d13aea280e540abc76",
+      "catalogue": "ESA Gaia DR3",
+      "query": "SELECT source_id,ra,dec,ref_epoch,pmra,pmdec,parallax,phot_g_mean_mag,bp_rp FROM gaiadr3.gaia_source WHERE source_id=5350358584482202880"
+    },
+    "dso_catalog_subset.tsv": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/nebulae/default/catalog.txt",
+      "sha256": "75009a05be25067ca4b0ac5a79ddf38816d7c44ebc06fcafefd910badd0ec2ee",
+      "upstreamFullFileSha256": "38a7c8c19b07bb3b2a659769acf4e5611a261732727d8e541c52ce691ab607aa",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731",
+      "selection": "Original comments plus exact rows whose NGC column is 2632, 5139, 6231, or 6475.",
+      "credit": "Stellarium DSO catalogue 3.23; NGC/IC measurements credited by Stellarium to SIMBAD Astronomical Database.",
+      "creditUrl": "https://github.com/Stellarium/stellarium/blob/0d956aacee305c29a92498860bc394ed21e0e731/CREDITS.md"
+    },
+    "hipparcos_missing_main.tsv": {
+      "url": "https://vizier.cds.unistra.fr/viz-bin/asu-tsv?-source=I%2F239%2Fhip_main&-out.all=1&HIP=55203%2C59273%2C78727%2C115125",
+      "sha256": "489f43edbd902c36b2d52084e46093fd7bd631cabc3ae47f818a359e357b7e48",
+      "catalogue": "ESA Hipparcos main table, I/239/hip_main",
+      "selection": "HIP 55203, 59273, 78727, 115125: original H3/H4 positions for records with blank numeric astrometric-solution fields. No inferred proper motion."
+    },
+    "babylonian_seleucid/index.json": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/babylonian_seleucid/index.json",
+      "sha256": "68a8647bb459257c877faf232daa169cd02b0fee6a400a54cf6ad45cc6d1d15a",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "babylonian_seleucid/description.md": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/babylonian_seleucid/description.md",
+      "sha256": "1f13bf1743eb6afaddceda8882f2decd9fb1466685cde80fbfec9de9dc5b0ea9",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "greek_almagest/index.json": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/greek_almagest/index.json",
+      "sha256": "6bd5152343bd3634988c67d9b1cd71a4a685e014ed20a6cae647233388847bc0",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "greek_almagest/description.md": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/greek_almagest/description.md",
+      "sha256": "ca41da91c73a7e1f50c99cd63303693f2042220d028ef84021153fd1dbf8754b",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "egyptian_dendera/index.json": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/egyptian_dendera/index.json",
+      "sha256": "9a51c641b98a216525339bb37f993f03366c8cdd46d0f2fe1e3addae0baac47e",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "egyptian_dendera/description.md": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/egyptian_dendera/description.md",
+      "sha256": "24617e8d145809feb657ee08743d434e48397dbb93c8a11b84066f1cebd8370f",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "norse_edda/index.json": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/norse_edda/index.json",
+      "sha256": "f243afd16065ec762e9c631e315a6b3f25e763d296709fd834032067ebe1cc86",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "norse_edda/description.md": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/norse_edda/description.md",
+      "sha256": "a6074ca7a1c85fc331b15eeb94b208dd4b53edf0e1b2fd67e867c24e5eb37b21",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "navajo/index.json": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/navajo/index.json",
+      "sha256": "5d481a40d8843dbbdf5bec4c2a1e1d2b2774a89dcead50baaa907cfa695c8d8a",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "navajo/description.md": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/navajo/description.md",
+      "sha256": "f19485beee31f895a5eec0ecdb0a0b53df22aef880684d5dd9db765a30e256c6",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731"
+    },
+    "navajo/COPYING": {
+      "url": "https://raw.githubusercontent.com/Stellarium/stellarium/0d956aacee305c29a92498860bc394ed21e0e731/COPYING",
+      "sha256": "3aeeb5bb98bf7041ab82cffe15efa28ac58ee2bdf162b71301f5c192be631259",
+      "upstreamRevision": "0d956aacee305c29a92498860bc394ed21e0e731",
+      "description": "Full GNU General Public License version 2, June 1991."
+    }
+  }
+}

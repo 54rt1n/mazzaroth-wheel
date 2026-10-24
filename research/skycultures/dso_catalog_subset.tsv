@@ -1,0 +1,95 @@
+# Stellarium DSO catalog
+# Version 3.23 standard
+# Generic columns:
+#  1 - (int)	- deep-sky object identificator
+#  2 - (float)	- RA (decimal degrees)
+#  3 - (float)	- Dec (decimal degrees)
+#  4 - (float)	- B magnitude
+#  5 - (float)	- V magnitude
+#  6 - (string)	- Object type (G, GX, GC, OC, NB, PN, DN, RN, C+N, HA, HII, SNR, BN, EN, SA, SC, RG, CL, IG, QSO or empty)
+#  7 - (string)	- Morphological type of object
+#  8 - (float)	- Major axis size or radius (arcmin)
+#  9 - (float)	- Minor axis size (arcmin)
+# 10 - (int)	- Orientation angle (degrees)
+# 11 - (float)	- Redshift
+# 12 - (float)	- Error of redshift
+# 13 - (float)	- Parallax (mas)
+# 14 - (float)	- Error of parallax (mas)
+# 15 - (float)	- Non-redshift distance (kpc)
+# 16 - (float)	- Error of non-redsift distance (kpc)
+# Cross-index columns:
+# 17 - (int)	- NGC number (New General Catalogue)
+# 18 - (int)	- IC number (Index Catalogue)
+# 19 - (int)	- M number (Messier Catalog)
+# 20 - (int)	- C number (Caldwell Catalogue)
+# 21 - (int)	- B number (Barnard Catalogue)
+# 22 - (int)	- Sh2 number (Sharpless Catalogue)
+# 23 - (int)	- VdB number (Van den Bergh Catalogue of reflection nebulae)
+# 24 - (int)	- RCW number (A catalogue of Hα-emission regions in the southern Milky Way)
+# 25 - (int)	- LDN number (Lynds' Catalogue of Dark Nebulae)
+# 26 - (int)	- LBN number (Lynds' Catalogue of Bright Nebulae)
+# 27 - (int)	- Cr number (Collinder Catalogue)
+# 28 - (int)	- Mel number (Melotte Catalogue of Deep Sky Objects)
+# 29 - (int)	- PGC number (HYPERLEDA. I. Catalog of galaxies)
+# 30 - (int)	- UGC number (The Uppsala General Catalogue of Galaxies)
+# 31 - (string)	- Ced number (Cederblad Catalog of bright diffuse Galactic nebulae)
+# 32 - (int)	- Arp number (Atlas of Peculiar Galaxies)
+# 33 - (int)	- VV number (The catalogue of interacting galaxies by Vorontsov-Velyaminov)
+# 34 - (string)	- PK identificator (Catalogue of Galactic Planetary Nebulae)
+# 35 - (string)	- PN G identificator (Strasbourg-ESO Catalogue of Galactic Planetary Nebulae)
+# 36 - (string)	- SNR G identificator (A catalogue of Galactic supernova remnants)
+# 37 - (string)	- ACO number (Rich Clusters of Galaxies by Abell et. al.)
+# 38 - (string)	- HCG identificator (Hickson Compact Group by Hickson P.)
+# 39 - (string)	- ESO identificator (ESO/Uppsala survey of the ESO(B) atlas by Lauberts)
+# 40 - (string)	- VdBH identificator (Van den Bergh and Herbst; Catalogue of southern stars embedded in nebulosity)
+# 41 - (int)	- DWB number (Catalogue and distances of optically visible H II regions)
+# 42 - (int)	- Tr number (Trumpler Catalogue)
+# 43 - (int)	- St number (Stock Catalogue)
+# 44 - (int)	- Ru number (Ruprecht Catalogue)
+# 45 - (int)	- VdB-Ha number (van den Bergh-Hagen Catalogue)
+# --- DATA ---
+# Baade's Window Region
+# Funnel Cloud Nebula
+# Northern Coalsack
+# The Great Rift
+# Scutum Star Cloud
+# Small Sgt Star Cloud
+# Patchy unnamed cloud
+# Large Sgt Star Cloud
+# Cygnus Star Cloud
+# Prancing Horse
+# Norma Star Cloud
+# Melotte 31
+2468	130.1	19.667	3.46	3.1	OC	II2m	70	0	0	0.000112	0.000004	0	0	0.177	0	2632	0	44	0	0		0	0	0	0	189	88		0		0	0								0	0	0	0	0
+4779	201.697	-47.47947	6.12	5.33	GC	VIII	55	0	0	0.000794	0.000017	0	0	4.84	0.34	5139	0	0	80	0		0	0	0	0	0	118		0		0	0								0	0	0	0	0
+5801	253.53546	-41.82667	2.83	2.6	OC	I3p	15	0	0	-0.000091	0.000010	0	0	1.25	0	6231	0	0	76	0		0	0	0	0	315	153		0		0	0								0	0	0	0	201
+6026	268.463	-34.793	3.45	3.3	OC	II2r	80	0	0	-0.000047	0.000005	0	0	0.3	0.01	6475	0	7	0	0		0	0	0	0	354	183		0		0	0								0	0	0	0	254
+# Sources:
+# SIMBAD Astronomical Database [http://simbad.u-strasbg.fr]
+# NED (NASA/IPAC EXTRAGALACTIC DATABASE) [http://ned.ipac.caltech.edu]
+# Catalogue of HII Regions (Sharpless 1959) [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=VII/20]
+# H-α emission regions in Southern Milky Way (Rodgers+ 1960) [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=VII/216]
+# Catalogue of Reflection Nebulae (Van den Bergh, 1966) [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=VII/21]
+# Lynds' Catalogue of Dark Nebulae (LDN) (Lynds 1962) [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=VII/7A]
+# Lynds' Catalogue of Bright Nebulae (Lynds 1965) [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=VII/9]
+# Catalog of bright diffuse Galactic nebulae (Cederblad, 1946) [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=VII/231]
+# Barnard's Catalogue of 349 Dark Objects in the Sky (Barnard, 1927) [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=VII/220A]
+# A Catalogue of Star Clusters shown on Franklin-Adams Chart Plates (Melotte, 1915) [http://adsabs.harvard.edu/abs/1915MmRAS..60..175M]
+# On Structural Properties of Open Galactic Clusters and their Spatial Distribution. Catalog of Open Galactic Clusters. (Collinder, 1931) [http://adsabs.harvard.edu/abs/1931AnLun...2....1C]
+# The Collinder Catalog of Open Star Clusters. An Observer’s Checklist. Edited by Thomas Watson [http://www.cloudynights.com/page/articles/cat/articles/the-collinder-catalog-updated-r2467]
+# For cross-index: 
+# Merged catalogue of reflection nebulae (Magakian, 2003) [http://vizier.u-strasbg.fr/viz-bin/VizieR-3?-source=J/A+A/399/141]
+# Morphology and magnitudes (partially) for Melotte catalogue:
+# List:Melotte - DeepSkyPedia :: Astronomy [http://deepskypedia.com/wiki/List:Melotte]
+# ATLAS OF PECULIAR GALAXIES (https://ned.ipac.caltech.edu/level5/Arp/frames.html)
+# Interacting galaxies catalogue (Vorontsov-Velyaminov+, 2001) [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=VII/236]
+# Catalogue of Galactic Planetary Nebulae (Kohoutek, 2001) [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=IV/24]
+# Strasbourg-ESO Catalogue of Galactic Planetary Nebulae (Acker+, 1992) [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=V/84]
+# A catalogue of Galactic supernova remnants (Green, 2014) [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=VII/272]
+# A catalog of rich clusters of galaxies (Abell+, 1989) [http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=VII/110A]
+# The Magellanic Cloud Calibration of the Galactic Planetary Nebula Distance Scale. The Astrophysical Journal, Volume 689, Issue 1, pp. 194-202 (2008). [http://adsabs.harvard.edu/abs/2008ApJ...689..194S]
+# A 1.4-GHz Arecibo Survey for Pulsars in Globular Clusters (2007). [https://arxiv.org/abs/0707.1602]
+# CATALOG OF PARAMETERS FOR MILKY WAY GLOBULAR CLUSTERS: THE DATABASE (2010). [http://physwww.physics.mcmaster.ca/~harris/mwgc.dat]
+# Distance measurements of Lynds Nebulae (Hilton+, 1995) [https://ui.adsabs.harvard.edu/abs/1995A%26AS..113..325H/abstract]
+# The Cygnus X region. V. Catalogue and distances of optically visible H II regions. (Dickel+, 1969) [https://ui.adsabs.harvard.edu/abs/1969A%26A.....1..270D/abstract]
+# OpenNGC [DOI:10.21938/y.1ejWUD_MQ6b_eDFoVbbw]

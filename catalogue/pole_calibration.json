@@ -1,0 +1,60 @@
+{
+  "calibration": "Fixed north coordinate pole of the ICRS chart at stellar position epoch J2000.0",
+  "northPole": {
+    "decDeg": 90.0,
+    "raDeg": null,
+    "rightAscensionNote": "Right ascension is undefined at the pole; all RA meridians meet there."
+  },
+  "method": "Angular distance to the north coordinate pole is 90 degrees minus declination. Positions use the existing catalogue snapshot, with its proper-motion propagation to epoch J2000.0.",
+  "frameNote": "The north ICRS coordinate pole is used as the chart reference. The mean equatorial pole at J2000 differs by the small ICRS frame-bias rotation (tens of milliarcseconds), negligible for this display. This is not the true, mean, or apparent pole of the current calendar date.",
+  "interpretation": "Center a north-polar chart on the coordinate pole, not on Polaris. Polaris is about 0.736 degree from this fixed pole. Thuban and Kochab distances here are modern J2000 values and say nothing directly about their distance from an ancient pole.",
+  "ancientEpochNote": "No ancient pole has been computed here. An ancient-sky view requires an appropriate precession model, epoch-specific pole, stellar proper motion, and an explicitly stated date convention.",
+  "sourceSelection": "Prefer an official Gaia DR2 HIP match in the existing background; otherwise use the Hipparcos bright-star anchor. All three calibration stars use Hipparcos because the selected Gaia DR2 subset has no official HIP match for them. No Gaia IDs are inferred from position.",
+  "stars": [
+    {
+      "name": "Polaris",
+      "raDeg": 37.95451535,
+      "decDeg": 89.26410951,
+      "mag": 1.97,
+      "magBand": "Johnson V",
+      "hip": 11767,
+      "gaiaDr2Id": null,
+      "coordinateSource": "Hipparcos (ESA 1997)",
+      "coordinateEpoch": 2000.0,
+      "sourceUrl": "https://cdsarc.cds.unistra.fr/viz-bin/cat/I/239",
+      "coordinateFrame": "ICRS",
+      "angularDistanceToNorthPoleDeg": 0.73589049,
+      "angularDistanceToNorthPoleArcmin": 44.1534294
+    },
+    {
+      "name": "Kochab",
+      "raDeg": 222.67636006,
+      "decDeg": 74.15550491,
+      "mag": 2.07,
+      "magBand": "Johnson V",
+      "hip": 72607,
+      "gaiaDr2Id": null,
+      "coordinateSource": "Hipparcos (ESA 1997)",
+      "coordinateEpoch": 2000.0,
+      "sourceUrl": "https://cdsarc.cds.unistra.fr/viz-bin/cat/I/239",
+      "coordinateFrame": "ICRS",
+      "angularDistanceToNorthPoleDeg": 15.84449509,
+      "angularDistanceToNorthPoleArcmin": 950.6697054
+    },
+    {
+      "name": "Thuban",
+      "raDeg": 211.09729071,
+      "decDeg": 64.37585051,
+      "mag": 3.67,
+      "magBand": "Johnson V",
+      "hip": 68756,
+      "gaiaDr2Id": null,
+      "coordinateSource": "Hipparcos (ESA 1997)",
+      "coordinateEpoch": 2000.0,
+      "sourceUrl": "https://cdsarc.cds.unistra.fr/viz-bin/cat/I/239",
+      "coordinateFrame": "ICRS",
+      "angularDistanceToNorthPoleDeg": 25.62414949,
+      "angularDistanceToNorthPoleArcmin": 1537.4489694
+    }
+  ]
+}

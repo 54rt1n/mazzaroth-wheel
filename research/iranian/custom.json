@@ -1,0 +1,511 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-10-24",
+  "scopeNote": "No separate recovered Magi line-map is asserted. These are two explicitly separated Zoroastrian textual comparison layers.",
+  "traditions": [
+    {
+      "kind": "research-comparison",
+      "classification": [
+        "historical",
+        "research-comparison"
+      ],
+      "id": "zoroastrian_avestan",
+      "label": "Zoroastrian (Avestan names)",
+      "description": "Three securely identified stellar names shown with unconnected reference markers; Vanant and Satavaēsa remain unplotted candidates.",
+      "period": "Younger Avestan textual tradition; date of composition not fixed by this layer.",
+      "geometryNotice": "Rings mark modern reference stars for identified objects. No surviving Avestan stick figures or complete Magi sky map are asserted.",
+      "source": {
+        "id": "mazzaroth_zoroastrian_avestan",
+        "url": "https://www.avesta.org/ka/yt8.htm",
+        "descriptionUrl": "https://www.avesta.org/ka/yt8.htm",
+        "revision": "mazzaroth-iranian-research-2026-10-24",
+        "reviewedOn": "2026-10-24",
+        "authors": "Mazzaroth project; Avestan text after Geldner; astronomical identifications discussed by D. N. MacKenzie and Antonio Panaino",
+        "authorsText": "Mazzaroth project; Avestan text after Geldner; astronomical identifications discussed by D. N. MacKenzie and Antonio Panaino. Source citations are attached to individual records. This is an original research comparison assembled for the Mazzaroth atlas.",
+        "license": "CC BY-SA 4.0 (compilation and reference geometry)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "licenseText": "Original selection, explanatory notes and arrangement of this comparison are released under CC BY-SA 4.0. Ancient names and factual identifications are cited as historical facts, not claimed as proprietary. Copyright in linked modern scholarship and electronic editions remains with its owners; their text is not republished here. Any reused modern constellation line geometry is credited to Stellarium’s team under CC BY-SA 4.0.",
+        "changes": "Selected three supported object identifications. Modern catalogue members serve only as unconnected locators; no connecting lines or hypothetical outlines were reconstructed."
+      },
+      "constellations": [
+        {
+          "id": "IRN AV Tištrya",
+          "name": "Tištrya · Sirius",
+          "nativeName": "Tištrya",
+          "lines": [
+            [
+              "HIP 32349"
+            ]
+          ],
+          "status": "secure",
+          "evidence": "Named in Yašt 8; Panaino identifies the star with Sirius.",
+          "notes": "The ring locates Sirius itself. This is a stellar identification, not a constellation outline.",
+          "geometryRole": "catalogue-star-locator",
+          "sources": [
+            {
+              "label": "Yašt 8.1–3 and 8.12",
+              "url": "https://www.avesta.org/ka/yt8.htm"
+            },
+            {
+              "label": "Antonio Panaino, Tištrya, Encyclopaedia Iranica (2005)",
+              "url": "https://www.iranicaonline.org/articles/tistrya-2/"
+            }
+          ]
+        },
+        {
+          "id": "IRN AV Haptōiringa",
+          "name": "Haptōiringa · Great Bear",
+          "nativeName": "Haptōiringa",
+          "lines": [
+            [
+              "HIP 54061"
+            ],
+            [
+              "HIP 53910"
+            ],
+            [
+              "HIP 58001"
+            ],
+            [
+              "HIP 59774"
+            ],
+            [
+              "HIP 62956"
+            ],
+            [
+              "HIP 65378"
+            ],
+            [
+              "HIP 67301"
+            ]
+          ],
+          "status": "secure",
+          "evidence": "Yašt 8.12 names Haptōiringa; Iranian studies identify it with the Great Bear.",
+          "notes": "Seven Big Dipper stars are modern reference members for the attested seven-star group. They are deliberately not joined into an asserted Avestan drawing.",
+          "geometryRole": "reference-member-markers",
+          "sources": [
+            {
+              "label": "Yašt 8.12",
+              "url": "https://www.avesta.org/ka/yt8.htm"
+            },
+            {
+              "label": "Antonio Panaino, Haftōrang, Encyclopaedia Iranica (2002)",
+              "url": "https://www.iranicaonline.org/articles/haftorang/"
+            }
+          ]
+        },
+        {
+          "id": "IRN AV Paoiryaēinyas",
+          "name": "Paoiryaēinyas · Pleiades",
+          "nativeName": "Paoiryaēinyas",
+          "lines": [
+            [
+              "HIP 17702"
+            ],
+            [
+              "HIP 17847"
+            ],
+            [
+              "HIP 17499"
+            ],
+            [
+              "HIP 17573"
+            ],
+            [
+              "HIP 17608"
+            ],
+            [
+              "HIP 17531"
+            ],
+            [
+              "HIP 17851"
+            ],
+            [
+              "HIP 17489"
+            ],
+            [
+              "HIP 17579"
+            ]
+          ],
+          "status": "secure",
+          "evidence": "Yašt 8.12 preserves the name; MacKenzie identifies the group as the Pleiades.",
+          "notes": "The atlas’s nine catalogue reference members locate the cluster. This display choice does not assert an ancient Iranian count of nine stars.",
+          "geometryRole": "reference-member-markers",
+          "sources": [
+            {
+              "label": "Yašt 8.12",
+              "url": "https://www.avesta.org/ka/yt8.htm"
+            },
+            {
+              "label": "D. N. MacKenzie, Constellations, Encyclopaedia Iranica (1992)",
+              "url": "https://www.iranicaonline.org/articles/constellations/"
+            }
+          ]
+        }
+      ],
+      "unlocated": [
+        {
+          "id": "IRN AV Vanant",
+          "name": "Vanant",
+          "nativeName": "Vanant",
+          "status": "uncertain",
+          "suggestedIdentification": "Vega (a scholarly identification)",
+          "evidence": "Named in Yašt 8.12; Vega is used in modern Iranian studies.",
+          "notes": "Retained as an unplotted candidate while historical identifications and their periods are reviewed. It is not silently substituted for a later Bundahishn stellar chief.",
+          "sources": [
+            {
+              "label": "Yašt 8.12",
+              "url": "https://www.avesta.org/ka/yt8.htm"
+            },
+            {
+              "label": "Encyclopaedia Iranica, Mithra i., discussion of Vanant (Yašt 21.1)",
+              "url": "https://www.iranicaonline.org/articles/mithra-i/"
+            }
+          ]
+        },
+        {
+          "id": "IRN AV Satavaēsa",
+          "name": "Satavaēsa",
+          "nativeName": "Satavaēsa",
+          "status": "uncertain",
+          "suggestedIdentification": "Fomalhaut (probable identification in Panaino 2005)",
+          "evidence": "Yašt 8.0 and 8.9 name the astral collaborator of Tištrya; Panaino calls the Fomalhaut identification probable.",
+          "notes": "The candidate is retained without fixed plotted coordinates. Later stellar-chief lists and translations must not be assumed to settle the identification.",
+          "sources": [
+            {
+              "label": "Yašt 8.0 and 8.9",
+              "url": "https://www.avesta.org/ka/yt8.htm"
+            },
+            {
+              "label": "Antonio Panaino, Tištrya, Encyclopaedia Iranica (2005)",
+              "url": "https://www.iranicaonline.org/articles/tistrya-2/"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "label": "Yašt 8.0, 8.9, 8.12 — Avestan text after Geldner",
+          "url": "https://www.avesta.org/ka/yt8.htm"
+        },
+        {
+          "label": "D. N. MacKenzie, Constellations, Encyclopaedia Iranica (1992)",
+          "url": "https://www.iranicaonline.org/articles/constellations/"
+        },
+        {
+          "label": "M. A. Dandamayev, Magi, Encyclopaedia Iranica",
+          "url": "https://www.iranicaonline.org/articles/magi/"
+        }
+      ]
+    },
+    {
+      "kind": "research-comparison",
+      "classification": [
+        "historical",
+        "research-comparison"
+      ],
+      "id": "zoroastrian_bundahishn",
+      "label": "Zoroastrian (Bundahishn zodiac)",
+      "description": "Twelve Middle Persian zodiac names from the Bundahishn, shown on explicitly modern comparison figures.",
+      "period": "Middle Persian Bundahishn tradition, preserved in medieval recensions; not a dated Achaemenid or Magi map.",
+      "geometryNotice": "The text supplies zodiac names, not these star-to-star lines. Modern Western figures locate the names; they are not 30° zodiac sectors or recovered Pahlavi outlines.",
+      "source": {
+        "id": "mazzaroth_bundahishn_zodiac",
+        "url": "https://www.avesta.org/mp/bundahis.html",
+        "descriptionUrl": "https://www.avesta.org/mp/bundahis.html",
+        "revision": "mazzaroth-iranian-research-2026-10-24",
+        "reviewedOn": "2026-10-24",
+        "authors": "Mazzaroth project; names after E. W. West’s Bundahishn translation; modern reference figures by Stellarium’s team",
+        "authorsText": "Mazzaroth project; names after E. W. West’s Bundahishn translation; modern reference figures by Stellarium’s team. Source citations are attached to individual records. This is an original research comparison assembled for the Mazzaroth atlas.",
+        "license": "CC BY-SA 4.0 (compilation and reference geometry)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "licenseText": "Original selection, explanatory notes and arrangement of this comparison are released under CC BY-SA 4.0. Ancient names and factual identifications are cited as historical facts, not claimed as proprietary. Copyright in linked modern scholarship and electronic editions remains with its owners; their text is not republished here. Any reused modern constellation line geometry is credited to Stellarium’s team under CC BY-SA 4.0.",
+        "changes": "Extracted the twelve zodiac names and object correspondences from Bundahishn 2.2 in West’s transliteration. Reused modern Western reference figures solely for comparison; no historical line geometry is claimed."
+      },
+      "constellations": [
+        {
+          "id": "IRN BD Ari",
+          "name": "Varak · Ram",
+          "nativeName": "Varak",
+          "nativeNameFormat": "Middle Persian name in West’s transliteration",
+          "referenceModernId": "CON modern Ari",
+          "modernIdentification": "Aries",
+          "status": "attested-name",
+          "evidence": "Bundahishn 2.2 lists the name among the twelve zodiacal figures.",
+          "notes": "West’s transliteration is retained. The displayed modern line figure is a comparison locator, not geometry transmitted by the Bundahishn.",
+          "geometryRole": "modern-reference-lines",
+          "sources": [
+            {
+              "label": "Bundahishn 2.2, West translation",
+              "url": "https://www.avesta.org/mp/bundahis.html"
+            },
+            {
+              "label": "Modern reference figure: Stellarium, CC BY-SA 4.0",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern"
+            }
+          ]
+        },
+        {
+          "id": "IRN BD Tau",
+          "name": "Tora · Bull",
+          "nativeName": "Tora",
+          "nativeNameFormat": "Middle Persian name in West’s transliteration",
+          "referenceModernId": "CON modern Tau",
+          "modernIdentification": "Taurus",
+          "status": "attested-name",
+          "evidence": "Bundahishn 2.2 lists the name among the twelve zodiacal figures.",
+          "notes": "West’s transliteration is retained. The displayed modern line figure is a comparison locator, not geometry transmitted by the Bundahishn.",
+          "geometryRole": "modern-reference-lines",
+          "sources": [
+            {
+              "label": "Bundahishn 2.2, West translation",
+              "url": "https://www.avesta.org/mp/bundahis.html"
+            },
+            {
+              "label": "Modern reference figure: Stellarium, CC BY-SA 4.0",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern"
+            }
+          ]
+        },
+        {
+          "id": "IRN BD Gem",
+          "name": "Do-patkar · Twins",
+          "nativeName": "Do-patkar",
+          "nativeNameFormat": "Middle Persian name in West’s transliteration",
+          "referenceModernId": "CON modern Gem",
+          "modernIdentification": "Gemini",
+          "status": "attested-name",
+          "evidence": "Bundahishn 2.2 lists the name among the twelve zodiacal figures.",
+          "notes": "West’s transliteration is retained. The displayed modern line figure is a comparison locator, not geometry transmitted by the Bundahishn.",
+          "geometryRole": "modern-reference-lines",
+          "sources": [
+            {
+              "label": "Bundahishn 2.2, West translation",
+              "url": "https://www.avesta.org/mp/bundahis.html"
+            },
+            {
+              "label": "Modern reference figure: Stellarium, CC BY-SA 4.0",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern"
+            }
+          ]
+        },
+        {
+          "id": "IRN BD Cnc",
+          "name": "Kalachang · Crab",
+          "nativeName": "Kalachang",
+          "nativeNameFormat": "Middle Persian name in West’s transliteration",
+          "referenceModernId": "CON modern Cnc",
+          "modernIdentification": "Cancer",
+          "status": "attested-name",
+          "evidence": "Bundahishn 2.2 lists the name among the twelve zodiacal figures.",
+          "notes": "West’s transliteration is retained. The displayed modern line figure is a comparison locator, not geometry transmitted by the Bundahishn.",
+          "geometryRole": "modern-reference-lines",
+          "sources": [
+            {
+              "label": "Bundahishn 2.2, West translation",
+              "url": "https://www.avesta.org/mp/bundahis.html"
+            },
+            {
+              "label": "Modern reference figure: Stellarium, CC BY-SA 4.0",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern"
+            }
+          ]
+        },
+        {
+          "id": "IRN BD Leo",
+          "name": "Sher · Lion",
+          "nativeName": "Sher",
+          "nativeNameFormat": "Middle Persian name in West’s transliteration",
+          "referenceModernId": "CON modern Leo",
+          "modernIdentification": "Leo",
+          "status": "attested-name",
+          "evidence": "Bundahishn 2.2 lists the name among the twelve zodiacal figures.",
+          "notes": "West’s transliteration is retained. The displayed modern line figure is a comparison locator, not geometry transmitted by the Bundahishn.",
+          "geometryRole": "modern-reference-lines",
+          "sources": [
+            {
+              "label": "Bundahishn 2.2, West translation",
+              "url": "https://www.avesta.org/mp/bundahis.html"
+            },
+            {
+              "label": "Modern reference figure: Stellarium, CC BY-SA 4.0",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern"
+            }
+          ]
+        },
+        {
+          "id": "IRN BD Vir",
+          "name": "Khushak · Virgo",
+          "nativeName": "Khushak",
+          "nativeNameFormat": "Middle Persian name in West’s transliteration",
+          "referenceModernId": "CON modern Vir",
+          "modernIdentification": "Virgo",
+          "status": "attested-name",
+          "evidence": "Bundahishn 2.2 lists the name among the twelve zodiacal figures.",
+          "notes": "West’s transliteration is retained. The displayed modern line figure is a comparison locator, not geometry transmitted by the Bundahishn. The corresponding name hōšag refers to the ear of grain/Spica in the scholarly discussion; the Virgo figure is a visual reference.",
+          "geometryRole": "modern-reference-lines",
+          "sources": [
+            {
+              "label": "Bundahishn 2.2, West translation",
+              "url": "https://www.avesta.org/mp/bundahis.html"
+            },
+            {
+              "label": "Modern reference figure: Stellarium, CC BY-SA 4.0",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern"
+            },
+            {
+              "label": "MacKenzie, Constellations: hōšag/Spica and Virgo",
+              "url": "https://www.iranicaonline.org/articles/constellations/"
+            }
+          ]
+        },
+        {
+          "id": "IRN BD Lib",
+          "name": "Tarazhuk · Balance",
+          "nativeName": "Tarazhuk",
+          "nativeNameFormat": "Middle Persian name in West’s transliteration",
+          "referenceModernId": "CON modern Lib",
+          "modernIdentification": "Libra",
+          "status": "attested-name",
+          "evidence": "Bundahishn 2.2 lists the name among the twelve zodiacal figures.",
+          "notes": "West’s transliteration is retained. The displayed modern line figure is a comparison locator, not geometry transmitted by the Bundahishn.",
+          "geometryRole": "modern-reference-lines",
+          "sources": [
+            {
+              "label": "Bundahishn 2.2, West translation",
+              "url": "https://www.avesta.org/mp/bundahis.html"
+            },
+            {
+              "label": "Modern reference figure: Stellarium, CC BY-SA 4.0",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern"
+            }
+          ]
+        },
+        {
+          "id": "IRN BD Sco",
+          "name": "Gazdum · Scorpion",
+          "nativeName": "Gazdum",
+          "nativeNameFormat": "Middle Persian name in West’s transliteration",
+          "referenceModernId": "CON modern Sco",
+          "modernIdentification": "Scorpius",
+          "status": "attested-name",
+          "evidence": "Bundahishn 2.2 lists the name among the twelve zodiacal figures.",
+          "notes": "West’s transliteration is retained. The displayed modern line figure is a comparison locator, not geometry transmitted by the Bundahishn.",
+          "geometryRole": "modern-reference-lines",
+          "sources": [
+            {
+              "label": "Bundahishn 2.2, West translation",
+              "url": "https://www.avesta.org/mp/bundahis.html"
+            },
+            {
+              "label": "Modern reference figure: Stellarium, CC BY-SA 4.0",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern"
+            }
+          ]
+        },
+        {
+          "id": "IRN BD Sgr",
+          "name": "Nimasp · Centaur",
+          "nativeName": "Nimasp",
+          "nativeNameFormat": "Middle Persian name in West’s transliteration",
+          "referenceModernId": "CON modern Sgr",
+          "modernIdentification": "Sagittarius",
+          "status": "attested-name",
+          "evidence": "Bundahishn 2.2 lists the name among the twelve zodiacal figures.",
+          "notes": "West’s transliteration is retained. The displayed modern line figure is a comparison locator, not geometry transmitted by the Bundahishn. This name corresponds to Sagittarius, not the separate constellation Centaurus.",
+          "geometryRole": "modern-reference-lines",
+          "sources": [
+            {
+              "label": "Bundahishn 2.2, West translation",
+              "url": "https://www.avesta.org/mp/bundahis.html"
+            },
+            {
+              "label": "Modern reference figure: Stellarium, CC BY-SA 4.0",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern"
+            }
+          ]
+        },
+        {
+          "id": "IRN BD Cap",
+          "name": "Vahik · Capricorn",
+          "nativeName": "Vahik",
+          "nativeNameFormat": "Middle Persian name in West’s transliteration",
+          "referenceModernId": "CON modern Cap",
+          "modernIdentification": "Capricornus",
+          "status": "attested-name",
+          "evidence": "Bundahishn 2.2 lists the name among the twelve zodiacal figures.",
+          "notes": "West’s transliteration is retained. The displayed modern line figure is a comparison locator, not geometry transmitted by the Bundahishn.",
+          "geometryRole": "modern-reference-lines",
+          "sources": [
+            {
+              "label": "Bundahishn 2.2, West translation",
+              "url": "https://www.avesta.org/mp/bundahis.html"
+            },
+            {
+              "label": "Modern reference figure: Stellarium, CC BY-SA 4.0",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern"
+            }
+          ]
+        },
+        {
+          "id": "IRN BD Aqr",
+          "name": "Dul · Water-pot",
+          "nativeName": "Dul",
+          "nativeNameFormat": "Middle Persian name in West’s transliteration",
+          "referenceModernId": "CON modern Aqr",
+          "modernIdentification": "Aquarius",
+          "status": "attested-name",
+          "evidence": "Bundahishn 2.2 lists the name among the twelve zodiacal figures.",
+          "notes": "West’s transliteration is retained. The displayed modern line figure is a comparison locator, not geometry transmitted by the Bundahishn.",
+          "geometryRole": "modern-reference-lines",
+          "sources": [
+            {
+              "label": "Bundahishn 2.2, West translation",
+              "url": "https://www.avesta.org/mp/bundahis.html"
+            },
+            {
+              "label": "Modern reference figure: Stellarium, CC BY-SA 4.0",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern"
+            }
+          ]
+        },
+        {
+          "id": "IRN BD Psc",
+          "name": "Mahik · Fish",
+          "nativeName": "Mahik",
+          "nativeNameFormat": "Middle Persian name in West’s transliteration",
+          "referenceModernId": "CON modern Psc",
+          "modernIdentification": "Pisces",
+          "status": "attested-name",
+          "evidence": "Bundahishn 2.2 lists the name among the twelve zodiacal figures.",
+          "notes": "West’s transliteration is retained. The displayed modern line figure is a comparison locator, not geometry transmitted by the Bundahishn.",
+          "geometryRole": "modern-reference-lines",
+          "sources": [
+            {
+              "label": "Bundahishn 2.2, West translation",
+              "url": "https://www.avesta.org/mp/bundahis.html"
+            },
+            {
+              "label": "Modern reference figure: Stellarium, CC BY-SA 4.0",
+              "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "label": "Bundahishn 2.2, E. W. West translation",
+          "url": "https://www.avesta.org/mp/bundahis.html"
+        },
+        {
+          "label": "Antonio Panaino, Zodiac, Encyclopaedia Iranica (2009)",
+          "url": "https://www.iranicaonline.org/articles/zodiac/"
+        },
+        {
+          "label": "Stellarium modern line figures, pinned source; CC BY-SA 4.0",
+          "url": "https://github.com/Stellarium/stellarium/tree/0d956aacee305c29a92498860bc394ed21e0e731/skycultures/modern"
+        }
+      ]
+    }
+  ]
+}
